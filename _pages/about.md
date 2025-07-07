@@ -57,10 +57,10 @@ I’m a detail-oriented problem solver with a strong sense of ownership and a pa
       <div>Introduction to R</div>
     </td>
     <td align="center">
-      <a href="https://www.datacamp.com/completed/statement-of-accomplishment/course/e6888dab9e769067a284c2578c93add2e23eff09" target="_blank">
-        <img src="/images/dplyr_yuki.png" alt="Data Manipulation with dplyr" width="150">
+      <a href="https://www.datacamp.com/completed/statement-of-accomplishment/course/00a29e0424697dca2155777863c2d34e1292fb03" target="_blank">
+        <img src="/images/joiningdata_yuki.png" alt="Joining Data in SQL" width="150">
       </a>
-      <div>Data Manipulation with dplyr</div>
+      <div>Joining Data in SQL</div>
     </td>
   </tr>
   <tr>
@@ -77,10 +77,10 @@ I’m a detail-oriented problem solver with a strong sense of ownership and a pa
       <div>Data Manipulation in SQL</div>
     </td>
     <td align="center">
-      <a href="https://www.datacamp.com/completed/statement-of-accomplishment/course/00a29e0424697dca2155777863c2d34e1292fb03" target="_blank">
-        <img src="/images/joiningdata_yuki.png" alt="Joining Data in SQL" width="150">
+      <a href="https://www.datacamp.com/completed/statement-of-accomplishment/course/e6888dab9e769067a284c2578c93add2e23eff09" target="_blank">
+        <img src="/images/dplyr_yuki.png" alt="Data Manipulation with dplyr" width="150">
       </a>
-      <div>Joining Data in SQL</div>
+      <div>Data Manipulation with dplyr</div>
     </td>
     <td align="center">
       <a href="https://www.datacamp.com/completed/statement-of-accomplishment/course/e26b54613670d7aa9b5bf72d2cde37f76ec2f608" target="_blank">
