@@ -8,7 +8,9 @@
 # Site Settings
 title                    : "Yu-Qi (Yuki) Fang"
 description              : "Aspiring Business & Marketing Analyst "
-repository               : "yuki-fang/yuki-fang.github.io"
+repository: "yuki-fang/portfolio-resume"
+baseurl: "/portfolio-resume"
+url: "https://yuki-fang.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
