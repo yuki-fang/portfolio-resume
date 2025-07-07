@@ -34,74 +34,6 @@ I’m a detail-oriented problem solver with a strong sense of ownership and a pa
 - Business Analytics
 - Market Research & Strategy
 
-### Certificates
-<table>
-  <tr>
-    <td align="center">
-      <a href="https://www.datacamp.com/completed/statement-of-accomplishment/course/b02e4a41d7d89d0e791445d0b1712c2d9b5a1b11" target="_blank">
-        <img src="{{'/images/intermediatesql_yuki.png' | relative_url }}" width="150">
-      </a>
-      <div>Intermediate SQL</div>
-    </td>
-    <td align="center">
-      <a href="https://www.datacamp.com/completed/statement-of-accomplishment/course/5e90592d3e6fe50ba8b12ea79e2ea888799baeb1" target="_blank">
-        <img src="{{'/images/introSQL_yuki.png' | relative_url }}" width="150">
-      </a>
-      <div>Introduction to SQL</div>
-    </td>
-    <td align="center">
-      <a href="https://www.datacamp.com/completed/statement-of-accomplishment/course/81c965b90856a328ff9c9d2023a0664648717be2" target="_blank">
-        <img src="{{'/images/intermediateR_yuki.png' | relative_url }}" width="150">
-      </a>
-      <div>Intermediate R</div>
-    </td>
-    <td align="center">
-      <a href="https://www.datacamp.com/completed/statement-of-accomplishment/course/dd90beff968cf307a6f06e07394211335765e497" target="_blank">
-        <img src="{{'/images/introR_yuki.png' | relative_url }}" width="150">
-      </a>
-      <div>Introduction to R</div>
-    </td>
-    <td align="center">
-      <a href="https://www.datacamp.com/completed/statement-of-accomplishment/course/00a29e0424697dca2155777863c2d34e1292fb03" target="_blank">
-        <img src="{{'/images/joiningdata_yuki.png' | relative_url }}" width="150">
-      </a>
-      <div>Joining Data in SQL</div>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <a href="https://www.datacamp.com/completed/statement-of-accomplishment/course/dfdd5124ea8e12a8542ef1ce9a304d593c8749e9" target="_blank">
-        <img src="{{'/images/postgre_sql_yuki.png' | relative_url }}" width="150">
-      </a>
-      <div>PostgreSQL Summary Stats</div>
-    </td>
-    <td align="center">
-      <a href="https://www.datacamp.com/completed/statement-of-accomplishment/course/8f2c941b062cbfa8226b797306321705cf0dab64" target="_blank">
-        <img src="{{'/images/data_manipulate_yuki.png' | relative_url }}" width="150">
-      </a>
-      <div>Data Manipulation in SQL</div>
-    </td>
-    <td align="center">
-      <a href="https://www.datacamp.com/completed/statement-of-accomplishment/course/e6888dab9e769067a284c2578c93add2e23eff09" target="_blank">
-        <img src="{{'/images/dplyr_yuki.png' | relative_url }}" width="150">
-      </a>
-      <div>Data Manipulation with dplyr</div>
-    </td>
-    <td align="center">
-      <a href="https://www.datacamp.com/completed/statement-of-accomplishment/course/e26b54613670d7aa9b5bf72d2cde37f76ec2f608" target="_blank">
-        <img src="{{'/images/tableau_yuki.png' | relative_url }}" width="150">
-      </a>
-      <div>Introduction to Tableau</div>
-    </td>
-    <td align="center">
-      <a href="https://portal.bloombergforeducation.com/certificates/Ho5n2tdas2uD1EYQHK4GFz4c" target="_blank">
-        <img src="{{'/images/bloomberg_yuki.png' | relative_url }}" width="150">
-      </a>
-      <div>Bloomberg Market Concepts</div>
-    </td>
-  </tr>
-</table>
-
 <br><br>
 
 # 👩🏻‍💻 Internships
@@ -209,7 +141,7 @@ I’m a detail-oriented problem solver with a strong sense of ownership and a pa
 
 <br><br>
 
-# 🏆 Awards
+# 🏆 Awards & Certificates
 ### <img src="{{'/images/effie2_logo.png' | relative_url }}" width="40"> Semi-Finalist @ [2025 Effie Collegiate US x Amazon Brand Challenge](https://www.effie.org/2025-effie-collegiate/)
 *Feb 2025 - Apr 2025*  
 Selected as one of six semi-finalists in the 2025 Effie Collegiate U.S. Competition out of 20+ participating universities. This national marketing challenge, hosted in collaboration with Amazon, invited students to develop an integrated campaign that demonstrates how Prime delivers everyday value to Gen Z.
@@ -220,6 +152,74 @@ I led the segmentation analysis of Prime owners, sharers, and non-users, identif
 <p align="center">
   <img src="{{'/images/effie_semi.jpeg' | relative_url }}" width="400";">
 </p>
+
+### Certificates
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://www.datacamp.com/completed/statement-of-accomplishment/course/b02e4a41d7d89d0e791445d0b1712c2d9b5a1b11" target="_blank">
+        <img src="{{'/images/intermediatesql_yuki.png' | relative_url }}" width="150">
+      </a>
+      <div>Intermediate SQL</div>
+    </td>
+    <td align="center">
+      <a href="https://www.datacamp.com/completed/statement-of-accomplishment/course/5e90592d3e6fe50ba8b12ea79e2ea888799baeb1" target="_blank">
+        <img src="{{'/images/introSQL_yuki.png' | relative_url }}" width="150">
+      </a>
+      <div>Introduction to SQL</div>
+    </td>
+    <td align="center">
+      <a href="https://www.datacamp.com/completed/statement-of-accomplishment/course/81c965b90856a328ff9c9d2023a0664648717be2" target="_blank">
+        <img src="{{'/images/intermediateR_yuki.png' | relative_url }}" width="150">
+      </a>
+      <div>Intermediate R</div>
+    </td>
+    <td align="center">
+      <a href="https://www.datacamp.com/completed/statement-of-accomplishment/course/dd90beff968cf307a6f06e07394211335765e497" target="_blank">
+        <img src="{{'/images/introR_yuki.png' | relative_url }}" width="150">
+      </a>
+      <div>Introduction to R</div>
+    </td>
+    <td align="center">
+      <a href="https://www.datacamp.com/completed/statement-of-accomplishment/course/00a29e0424697dca2155777863c2d34e1292fb03" target="_blank">
+        <img src="{{'/images/joiningdata_yuki.png' | relative_url }}" width="150">
+      </a>
+      <div>Joining Data in SQL</div>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://www.datacamp.com/completed/statement-of-accomplishment/course/dfdd5124ea8e12a8542ef1ce9a304d593c8749e9" target="_blank">
+        <img src="{{'/images/postgre_sql_yuki.png' | relative_url }}" width="150">
+      </a>
+      <div>PostgreSQL Summary Stats</div>
+    </td>
+    <td align="center">
+      <a href="https://www.datacamp.com/completed/statement-of-accomplishment/course/8f2c941b062cbfa8226b797306321705cf0dab64" target="_blank">
+        <img src="{{'/images/data_manipulate_yuki.png' | relative_url }}" width="150">
+      </a>
+      <div>Data Manipulation in SQL</div>
+    </td>
+    <td align="center">
+      <a href="https://www.datacamp.com/completed/statement-of-accomplishment/course/e6888dab9e769067a284c2578c93add2e23eff09" target="_blank">
+        <img src="{{'/images/dplyr_yuki.png' | relative_url }}" width="150">
+      </a>
+      <div>Data Manipulation with dplyr</div>
+    </td>
+    <td align="center">
+      <a href="https://www.datacamp.com/completed/statement-of-accomplishment/course/e26b54613670d7aa9b5bf72d2cde37f76ec2f608" target="_blank">
+        <img src="{{'/images/tableau_yuki.png' | relative_url }}" width="150">
+      </a>
+      <div>Introduction to Tableau</div>
+    </td>
+    <td align="center">
+      <a href="https://portal.bloombergforeducation.com/certificates/Ho5n2tdas2uD1EYQHK4GFz4c" target="_blank">
+        <img src="{{'/images/bloomberg_yuki.png' | relative_url }}" width="150">
+      </a>
+      <div>Bloomberg Market Concepts</div>
+    </td>
+  </tr>
+</table>
 
 <br><br>
 
