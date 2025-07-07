@@ -154,11 +154,11 @@ I led the segmentation analysis of Prime owners, sharers, and non-users, identif
   <img src="{{'/images/effie_semi.jpeg' | relative_url }}" width="400">
 </p>
 
-### Test
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Effie Collegiate x Amazon Prime</div><img src="{{'/images/effie2_logo.png' | relative_url }}" width="100%"></div></div>
+### Awards
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Effie Collegiate x Amazon Prime</div><img src="{{'/images/effie_semi.jpeg' | relative_url }}" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-Semi-Finalist @ [2025 Effie Collegiate US x Amazon Brand Challenge](https://www.effie.org/2025-effie-collegiate/)
+<img src="{{'/images/effie2_logo.png' | relative_url }}" width="40"> Semi-Finalist @ [2025 Effie Collegiate US x Amazon Brand Challenge](https://www.effie.org/2025-effie-collegiate/)
 
 **Yu-Qi (Yuki) Fang**, Jingru Wang, Mallika Mehta
 
