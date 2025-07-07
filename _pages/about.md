@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-# 👋 Hi there!
+# 🙋🏻‍♀️ Hi there!
 I’m Yuki Fang, a Master’s student in Integrated Marketing Communications at Northwestern Medill, specializing in Data and Marketing Analytics. I hold a Bachelor's degree in Economics from NYU Abu Dhabi.
 
 At Medill, I focus on delivering data-driven marketing solutions that drive measurable impact. I’ve used tools like SQL, R, Tableau, and Google Analytics to uncover customer trends, evaluate campaign performance, and build dashboards that inform strategic decisions across industries.
@@ -28,6 +28,11 @@ I’m a detail-oriented problem solver with a strong sense of ownership and a pa
 - **M.S. in Integrated Marketing Communications** @ [Northwestern Medill](https://www.medill.northwestern.edu/), Concentrations in Data Analytics & Brand Management *(Sep 2024 – Dec 2025)*  
 - **B.A. in Economics** @ [New York University Abu Dhabi](https://nyuad.nyu.edu/), Full Ride Scholarship, 4% Admit Rate *(Sep 2020 – May 2024)*  
 - **Study Abroad** @ [NYU Stern School of Business](https://www.stern.nyu.edu/), Concentrations in Business Analytics & Data Science *(Sep 2022 – Dec 2022)*
+
+### Career Interests
+- Marketing Analytics & Technology
+- Business Analytics
+- Market Research & Strategy
 
 ### Certificates
 <table>
@@ -97,13 +102,120 @@ I’m a detail-oriented problem solver with a strong sense of ownership and a pa
   </tr>
 </table>
 
-### Career Interests
-- Marketing Analytics & Technology
-- Business Analytics
-- Market Research & Strategy
 <br><br>
 
-# 📝 Publications 
+# 👩🏻‍💻 Internships
+*Putting what I’ve learned into action—applying data, strategy, and storytelling in real-world settings.*
+
+### Graduate Marketing Consultant @ [Mark Anthony Group](https://markanthony.com/)
+*Jun 2025 – Present*
+
+### Teaching Assistant @ [Northwestern Kellogg School of Management](https://www.kellogg.northwestern.edu/)
+*Mar 2025 - Jun 2025*  
+**Course:** [MKTG 479: Critical Thinking in Digital and Social Media Marketing](https://www6.kellogg.northwestern.edu/CourseCatalog/coursecatalog/coursedetail?coursecatalogid=207197) with Professor [Ashlee Humphreys](https://www.kellogg.northwestern.edu/faculty/directory/humphreys_ashlee/)  
+- Led a class of 65 MBA students over a 10-week quarter, supporting instruction in digital and social media marketing strategy  
+- Hosted 5 office hours on **Tableau** and **Brandwatch** for campaign analysis and social listening  
+- Graded 50+ assignments on platform analytics and ad evaluation, including using **Tableau** for Air France campaign effectiveness and **Brandwatch** for Superbowl ad sentiment analysis
+
+### Marketing Analyst Consultant @ [Center for Enriched Living](https://www.experiencecel.org/)
+*Feb 2025 - Jun 2025*  
+- **Improved SEO data accuracy by 15%** by building a **Google Looker Studio** dashboard to track website traffic and audience engagement  
+- Audited 11 active Google Ads campaigns, uncovering tracking gaps in a $10K ad grant and projecting a **25% improvement in conversion tracking accuracy**  
+- Conducted a website SEO audit via **YoastSEO**, optimizing 65 pages with stronger keyphrases and meta descriptions—**projected to boost website engagement by 30%**
+
+### Global Outreach Marketing Intern @ [New York University Abu Dhabi](https://nyuad.nyu.edu/en/)
+*Feb 2024 - May 2024*  
+- **Increased social media engagement by 150%** for [@studyawayatnyuad](https://www.instagram.com/studyawayatnyuad/?hl=en) by creating 100+ posts and reels over 4 months, tailored to follower interests and optimized for platform algorithms  
+- **Directed a 4-month content calendar across Instagram and email marketing**, collaborating with 5+ departments to deliver weekly messaging aligned with institutional goals
+
+### Information Technology Intern @ [Bank SinoPac](https://bank.sinopac.com/sinopacBT/en/index.html)
+*Jun 2023 - Aug 2023*  
+- **Segmented and analyzed user data across 10K+ ATM interactions** via **SQL** and **VBA**, identifying key accessibility gaps for Talking ATMs 
+- Proposed tailored enhancements for users with disabilities, projected to **increase Talking ATM usability by 30% and customer satisfaction by 15%**, and presented findings to leadership teams across 10 departments
+
+### Marketing Analyst Intern @ [Teach For Taiwan](https://www.teach4taiwan.org/)
+*Oct 2022 - Feb 2023*  
+- Built a **Google Looker Studio** dashboard to track website traffic and campaign performance, identifying high-exit pages and optimizing targeting strategy—projected to **increase website engagement by 20%**  
+- Developed 4 data-driven audience personas based on applicant behavior, guiding paid media and email campaigns, projected to **improve applicant conversion rates by 12%**  
+- Presented long-term recruitment strategy to the head of marketing, **analyzing data over a 5-month period via Google Analytics** to provide recommendations for expanding outreach to underrepresented regions and 10+ target universities across Taiwan, reporting weekly and monthly traffic insights
+
+### Data Science Intern @ [Teach For Taiwan](https://www.teach4taiwan.org/)
+*Jun 2022 - Aug 2022*  
+- **Reduced data preparation time by 200% and market research time by 150%** by developing a streamlined data-cleaning framework using **Excel VBA** for a major recruitment research initiative in 2022  
+- Analyzed 8 years of Teach For Taiwan's bi-annual recruitment data via **RStudio**, identifying key weaknesses in hiring strategies, which are projected to **increase hiring efficiency by 25%**
+
+### Brand Marketing Intern @ [humanID](https://www.human-internet.org/)
+*Apr 2022 - Jul 2022*  
+- **Increased website traffic by 5%** through the creation of 24 bi-weekly SEO-focused articles aligned with trending search topics, using engagement data to continuously refine content strategy and improve audience targeting  
+- Directed a 3-month content calendar based on SEO analysis and engagement metrics, achieving an **8% increase in article click-through rates** and a **15% improvement in content engagement**, leading to more effective brand messaging and stronger audience connection
+
+### Global Outreach Marketing Intern @ [New York University Abu Dhabi](https://nyuad.nyu.edu/en/)
+*Jan 2022 - May 2022*  
+- **Increased follower count of [@studyawayatnyuad](https://www.instagram.com/studyawayatnyuad) by 30%** through producing **300+ posts and reels** tailored to audience interests and trending algorithms  
+- **Directed a 5-month content calendar, driving a 30% increase in weekly engagement** and **10% boost in audience retention**  
+- Analyzed social media engagement trends using **RStudio**, reporting insights to the head of social media, leading to a **20% improvement** in content targeting and strategic adjustments
+
+### Business Development Intern @ [Millie Group](http://www.milliegroup.com)
+*Sep 2021 - Dec 2021*  
+- **Expanded the company’s target audience by 15%** through strategic outreach, conducting **100+ personalized engagements** with schools and educational institutions to promote Millie Group’s education services  
+- **Directed and marketed an online panel for 250+ high school students globally**, sourcing speakers (mentors, investors, and professionals), and creating **10+ targeted social media ads**, resulting in a **20% increase** in student sign-ups and positive engagement feedback
+
+<br><br>
+
+# 🙆🏻‍♀️ Technical Skills 
+*As a curious problem-solver transforming data into marketing impact, these are the tools I rely on.*
+
+### Programming Languages
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![VBA](https://img.shields.io/badge/VBA-003B6F?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+### Statistical & Data Analysis
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Stata](https://img.shields.io/badge/Stata-005DA6?style=for-the-badge&logo=data:image/svg+xml;base64,---custom---)
+![Radiant](https://img.shields.io/badge/Radiant-005DA6?style=for-the-badge&logo=data:image/svg+xml;base64,---custom---)
+
+### Data Visualization
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Looker Studio](https://img.shields.io/badge/Google_Looker_Studio-4285F4?style=for-the-badge&logo=googleanalytics&logoColor=white)
+![Gephi](https://img.shields.io/badge/Gephi-000000?style=for-the-badge&logo=gephi&logoColor=white)
+
+### Digital Marketing & Advertising
+![Google Ads](https://img.shields.io/badge/Google_Ads-4285F4?style=for-the-badge&logo=googleads&logoColor=white)
+![Google Tag Manager](https://img.shields.io/badge/Google_Tag_Manager-3756A6?style=for-the-badge&logo=googletagmanager&logoColor=white)
+![Meta Ads](https://img.shields.io/badge/Meta_Ads-000000?style=for-the-badge&logo=facebook&logoColor=white)
+
+### CRM & Automation
+![HubSpot](https://img.shields.io/badge/HubSpot-FF7A59?style=for-the-badge&logo=hubspot&logoColor=white)
+![Mailchimp](https://img.shields.io/badge/Mailchimp-FFE01B?style=for-the-badge&logo=mailchimp&logoColor=black)
+
+### Market & Consumer Insights
+![Qualtrics](https://img.shields.io/badge/Qualtrics-04C9CE?style=for-the-badge&logo=qualtrics&logoColor=white)
+![Brandwatch](https://img.shields.io/badge/Brandwatch-000000?style=for-the-badge&logo=brandwatch&logoColor=white)
+![Communalytic](https://img.shields.io/badge/Communalytic-FFD9EC?style=for-the-badge&logo=data:image/svg+xml;base64,---)
+![Vivvix](https://img.shields.io/badge/Vivvix-000000?style=for-the-badge&logo=data:image/svg+xml;base64,---)
+![Mintel](https://img.shields.io/badge/Mintel-F6EB14?style=for-the-badge&logo=data:image/svg+xml;base64,---)
+
+### IDEs & Tools
+![RStudio](https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=rstudio&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### Design Tools
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+![CapCut](https://img.shields.io/badge/CapCut-000000?style=for-the-badge&logo=capcut&logoColor=white)
+
+<br><br>
+
+# 🎖 Awards
+- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
+
+<br><br>
+
+# 📝 Projects
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -118,14 +230,3 @@ I’m a detail-oriented problem solver with a strong sense of ownership and a pa
 </div>
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
-
-# 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
-
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
