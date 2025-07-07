@@ -25,9 +25,9 @@ At Medill, I focus on delivering data-driven marketing solutions that drive meas
 I’m a detail-oriented problem solver with a strong sense of ownership and a passion for transforming complex data into clear, actionable strategies. I’m especially excited by the intersection of data, business, and marketing—where analytical precision meets creative insight to move brands forward.
 
 ### Education
-- <img src="/images/medill_logo.png" width="40"> **M.S. in Integrated Marketing Communications** @ [Northwestern Medill](https://www.medill.northwestern.edu/), Concentrations in Data Analytics & Brand Management *(Sep 2024 – Dec 2025)*  
-- <img src="/images/nyuad_logo_.png" width="40"> **B.A. in Economics** @ [New York University Abu Dhabi](https://nyuad.nyu.edu/), Full Ride Scholarship, 4% Admit Rate *(Sep 2020 – May 2024)*  
-- <img src="/images/nyustern_logo.png" width="40"> **Study Abroad** @ [NYU Stern School of Business](https://www.stern.nyu.edu/), Concentrations in Business Analytics & Data Science *(Sep 2022 – Dec 2022)*
+- <img src="{{ '/images/medill_logo.png' | relative_url }}" width="40"> **M.S. in Integrated Marketing Communications** @ [Northwestern Medill](https://www.medill.northwestern.edu/), Concentrations in Data Analytics & Brand Management *(Sep 2024 – Dec 2025)*  
+- <img src="{{'/images/nyuad_logo_.png' | relative_url }}" width="40"> **B.A. in Economics** @ [New York University Abu Dhabi](https://nyuad.nyu.edu/), Full Ride Scholarship, 4% Admit Rate *(Sep 2020 – May 2024)*  
+- <img src="{{'/images/nyustern_logo.png' | relative_url }}" width="40"> **Study Abroad** @ [NYU Stern School of Business](https://www.stern.nyu.edu/), Concentrations in Business Analytics & Data Science *(Sep 2022 – Dec 2022)*
 
 ### Career Interests
 - Marketing Analytics & Technology
