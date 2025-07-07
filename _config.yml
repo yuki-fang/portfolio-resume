@@ -8,7 +8,7 @@
 # Site Settings
 title                    : "Yu-Qi (Yuki) Fang"
 description              : "Aspiring Business & Marketing Analyst "
-repository               : "https://github.com/yuki-fang"
+repository               : #"https://github.com/yuki-fang"
 google_scholar_stats_use_cdn : true
 
 # google analytics
