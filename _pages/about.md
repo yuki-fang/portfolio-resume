@@ -30,89 +30,72 @@ I’m a detail-oriented problem solver with a strong sense of ownership and a pa
 - **Study Abroad** @ [NYU Stern School of Business](https://www.stern.nyu.edu/), Concentrations in Business Analytics & Data Science *(Sep 2022 – Dec 2022)*
 
 ### Certificates
-<div style="display: grid; grid-template-columns: repeat(5, 1fr); gap: 20px; text-align: center;">
-  <!-- Certificate 1 -->
-  <div>
-    <a href="https://www.datacamp.com/completed/statement-of-accomplishment/course/b02e4a41d7d89d0e791445d0b1712c2d9b5a1b11" target="_blank">
-      <img src="/assets/images/datacamp_logo.png" alt="Intermediate SQL" style="width: 80px; height: auto;">
-    </a>
-    <p style="margin-top: 5px; font-size: 0.9em;">Intermediate SQL</p>
-  </div>
-
-  <!-- Certificate 2 -->
-  <div>
-    <a href="https://www.datacamp.com/completed/statement-of-accomplishment/course/5e90592d3e6fe50ba8b12ea79e2ea888799baeb1" target="_blank">
-      <img src="/assets/images/datacamp_logo.png" alt="Introduction to SQL" style="width: 80px; height: auto;">
-    </a>
-    <p style="margin-top: 5px; font-size: 0.9em;">Introduction to SQL</p>
-  </div>
-
-  <!-- Certificate 3 -->
-  <div>
-    <a href="https://www.datacamp.com/completed/statement-of-accomplishment/course/81c965b90856a328ff9c9d2023a0664648717be2" target="_blank">
-      <img src="/assets/images/intermediateR_yuki.png" alt="Intermediate R" style="width: 80px; height: auto;">
-    </a>
-    <p style="margin-top: 5px; font-size: 0.9em;">Intermediate R</p>
-  </div>
-
-  <!-- Certificate 4 -->
-  <div>
-    <a href="https://www.datacamp.com/completed/statement-of-accomplishment/course/dd90beff968cf307a6f06e07394211335765e497" target="_blank">
-      <img src="/assets/images/datacamp_logo.png" alt="Introduction to R" style="width: 80px; height: auto;">
-    </a>
-    <p style="margin-top: 5px; font-size: 0.9em;">Introduction to R</p>
-  </div>
-
-  <!-- Certificate 5 -->
-  <div>
-    <a href="https://www.datacamp.com/completed/statement-of-accomplishment/course/e6888dab9e769067a284c2578c93add2e23eff09" target="_blank">
-      <img src="/assets/images/datacamp_logo.png" alt="Data Manipulation with dplyr" style="width: 80px; height: auto;">
-    </a>
-    <p style="margin-top: 5px; font-size: 0.9em;">Data Manipulation with dplyr</p>
-  </div>
-
-  <!-- Certificate 6 -->
-  <div>
-    <a href="https://www.datacamp.com/completed/statement-of-accomplishment/course/dfdd5124ea8e12a8542ef1ce9a304d593c8749e9" target="_blank">
-      <img src="/assets/images/datacamp_logo.png" alt="PostgreSQL Summary Stats" style="width: 80px; height: auto;">
-    </a>
-    <p style="margin-top: 5px; font-size: 0.9em;">PostgreSQL Summary Stats</p>
-  </div>
-
-  <!-- Certificate 7 -->
-  <div>
-    <a href="https://www.datacamp.com/completed/statement-of-accomplishment/course/8f2c941b062cbfa8226b797306321705cf0dab64" target="_blank">
-      <img src="/assets/images/datacamp_logo.png" alt="Data Manipulation in SQL" style="width: 80px; height: auto;">
-    </a>
-    <p style="margin-top: 5px; font-size: 0.9em;">Data Manipulation in SQL</p>
-  </div>
-
-  <!-- Certificate 8 -->
-  <div>
-    <a href="https://www.datacamp.com/completed/statement-of-accomplishment/course/00a29e0424697dca2155777863c2d34e1292fb03" target="_blank">
-      <img src="/assets/images/datacamp_logo.png" alt="Joining Data in SQL" style="width: 80px; height: auto;">
-    </a>
-    <p style="margin-top: 5px; font-size: 0.9em;">Joining Data in SQL</p>
-  </div>
-
-  <!-- Certificate 9 -->
-  <div>
-    <a href="https://www.datacamp.com/completed/statement-of-accomplishment/course/e26b54613670d7aa9b5bf72d2cde37f76ec2f608" target="_blank">
-      <img src="/assets/images/datacamp_logo.png" alt="Introduction to Tableau" style="width: 80px; height: auto;">
-    </a>
-    <p style="margin-top: 5px; font-size: 0.9em;">Introduction to Tableau</p>
-  </div>
-
-  <!-- Certificate 10 -->
-  <div>
-    <a href="https://portal.bloombergforeducation.com/certificates/Ho5n2tdas2uD1EYQHK4GFz4c" target="_blank">
-      <img src="/assets/images/bloomberg_logo.png" alt="Bloomberg Market Concepts" style="width: 80px; height: auto;">
-    </a>
-    <p style="margin-top: 5px; font-size: 0.9em;">Bloomberg Market Concepts</p>
-  </div>
-
-</div>
-
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://www.datacamp.com/completed/statement-of-accomplishment/course/b02e4a41d7d89d0e791445d0b1712c2d9b5a1b11" target="_blank">
+        <img src="/assets/images/datacamp_logo.png" alt="Intermediate SQL" width="80">
+      </a>
+      <div>Intermediate SQL</div>
+    </td>
+    <td align="center">
+      <a href="https://www.datacamp.com/completed/statement-of-accomplishment/course/5e90592d3e6fe50ba8b12ea79e2ea888799baeb1" target="_blank">
+        <img src="/assets/images/datacamp_logo.png" alt="Introduction to SQL" width="80">
+      </a>
+      <div>Introduction to SQL</div>
+    </td>
+    <td align="center">
+      <a href="https://www.datacamp.com/completed/statement-of-accomplishment/course/81c965b90856a328ff9c9d2023a0664648717be2" target="_blank">
+        <img src="/assets/images/datacamp_logo.png" alt="Intermediate R" width="80">
+      </a>
+      <div>Intermediate R</div>
+    </td>
+    <td align="center">
+      <a href="https://www.datacamp.com/completed/statement-of-accomplishment/course/dd90beff968cf307a6f06e07394211335765e497" target="_blank">
+        <img src="/assets/images/datacamp_logo.png" alt="Introduction to R" width="80">
+      </a>
+      <div>Introduction to R</div>
+    </td>
+    <td align="center">
+      <a href="https://www.datacamp.com/completed/statement-of-accomplishment/course/e6888dab9e769067a284c2578c93add2e23eff09" target="_blank">
+        <img src="/assets/images/datacamp_logo.png" alt="Data Manipulation with dplyr" width="80">
+      </a>
+      <div>Data Manipulation with dplyr</div>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://www.datacamp.com/completed/statement-of-accomplishment/course/dfdd5124ea8e12a8542ef1ce9a304d593c8749e9" target="_blank">
+        <img src="/assets/images/datacamp_logo.png" alt="PostgreSQL Summary Stats and Window Functions" width="80">
+      </a>
+      <div>PostgreSQL Summary Stats</div>
+    </td>
+    <td align="center">
+      <a href="https://www.datacamp.com/completed/statement-of-accomplishment/course/8f2c941b062cbfa8226b797306321705cf0dab64" target="_blank">
+        <img src="/assets/images/datacamp_logo.png" alt="Data Manipulation in SQL" width="80">
+      </a>
+      <div>Data Manipulation in SQL</div>
+    </td>
+    <td align="center">
+      <a href="https://www.datacamp.com/completed/statement-of-accomplishment/course/00a29e0424697dca2155777863c2d34e1292fb03" target="_blank">
+        <img src="/assets/images/datacamp_logo.png" alt="Joining Data in SQL" width="80">
+      </a>
+      <div>Joining Data in SQL</div>
+    </td>
+    <td align="center">
+      <a href="https://www.datacamp.com/completed/statement-of-accomplishment/course/e26b54613670d7aa9b5bf72d2cde37f76ec2f608" target="_blank">
+        <img src="/assets/images/datacamp_logo.png" alt="Introduction to Tableau" width="80">
+      </a>
+      <div>Introduction to Tableau</div>
+    </td>
+    <td align="center">
+      <a href="https://portal.bloombergforeducation.com/certificates/Ho5n2tdas2uD1EYQHK4GFz4c" target="_blank">
+        <img src="/assets/images/bloomberg_logo.png" alt="Bloomberg Market Concepts" width="80">
+      </a>
+      <div>Bloomberg Market Concepts</div>
+    </td>
+  </tr>
+</table>
 
 ### Career Interests
 - Marketing Analytics & Technology
