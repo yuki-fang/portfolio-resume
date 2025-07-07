@@ -150,7 +150,7 @@ Our campaign, Your Prime, Your Way, responded to Gen Z’s frustration with algo
 
 I led the segmentation analysis of Prime owners, sharers, and non-users, identifying behavioral patterns and unmet needs. Sharers, in particular, expressed a limited sense of autonomy and control—an insight that directly informed our campaign’s strategic direction and messaging.
 <p align="center">
-  <img src="{{'/images/effie_semi.jpeg' | relative_url }}" width="400";">
+  <img src="{{'/images/effie_semi.jpeg' | relative_url }}" width="400">
 </p>
 
 ### Certificates
