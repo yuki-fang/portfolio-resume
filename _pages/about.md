@@ -50,7 +50,7 @@ I’m a detail-oriented problem solver with a strong sense of ownership and a pa
   <!-- Certificate 3 -->
   <div>
     <a href="https://www.datacamp.com/completed/statement-of-accomplishment/course/81c965b90856a328ff9c9d2023a0664648717be2" target="_blank">
-      <img src="/assets/images/datacamp_logo.png" alt="Intermediate R" style="width: 80px; height: auto;">
+      <img src="/assets/images/intermediateR_yuki.png" alt="Intermediate R" style="width: 80px; height: auto;">
     </a>
     <p style="margin-top: 5px; font-size: 0.9em;">Intermediate R</p>
   </div>
