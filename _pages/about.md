@@ -142,6 +142,7 @@ I’m a detail-oriented problem solver with a strong sense of ownership and a pa
 <br><br>
 
 # 🏆 Awards & Certificates
+### Awards
 ### <img src="{{'/images/effie2_logo.png' | relative_url }}" width="40"> Semi-Finalist @ [2025 Effie Collegiate US x Amazon Brand Challenge](https://www.effie.org/2025-effie-collegiate/)
 *Feb 2025 - Apr 2025*  
 Selected as one of six semi-finalists in the 2025 Effie Collegiate U.S. Competition out of 20+ participating universities. This national marketing challenge, hosted in collaboration with Amazon, invited students to develop an integrated campaign that demonstrates how Prime delivers everyday value to Gen Z.
