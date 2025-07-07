@@ -123,7 +123,7 @@ I’m a detail-oriented problem solver with a strong sense of ownership and a pa
 - Audited 11 active Google Ads campaigns, uncovering tracking gaps in a $10K ad grant and projecting a **25% improvement in conversion tracking accuracy**  
 - Conducted a website SEO audit via **YoastSEO**, optimizing 65 pages with stronger keyphrases and meta descriptions—**projected to boost website engagement by 30%**
 
-### <img src="/images/nyuad_logo.webp" alt="NYUAD" width="40"> Global Outreach Marketing Intern @ [New York University Abu Dhabi](https://nyuad.nyu.edu/en/)
+### <img src="/images/nyuad3_logo.png" alt="NYUAD" width="40"> Global Outreach Marketing Intern @ [New York University Abu Dhabi](https://nyuad.nyu.edu/en/)
 *Feb 2024 - May 2024*  
 - **Increased social media engagement by 150%** for [@studyawayatnyuad](https://www.instagram.com/studyawayatnyuad/?hl=en) by creating 100+ posts and reels over 4 months, tailored to follower interests and optimized for platform algorithms  
 - **Directed a 4-month content calendar across Instagram and email marketing**, collaborating with 5+ departments to deliver weekly messaging aligned with institutional goals
@@ -149,7 +149,7 @@ I’m a detail-oriented problem solver with a strong sense of ownership and a pa
 - **Increased website traffic by 5%** through the creation of 24 bi-weekly SEO-focused articles aligned with trending search topics, using engagement data to continuously refine content strategy and improve audience targeting  
 - Directed a 3-month content calendar based on SEO analysis and engagement metrics, achieving an **8% increase in article click-through rates** and a **15% improvement in content engagement**, leading to more effective brand messaging and stronger audience connection
 
-### <img src="/images/nyuad_logo.webp" alt="NYUAD" width="40"> Global Outreach Marketing Intern @ [New York University Abu Dhabi](https://nyuad.nyu.edu/en/)
+### <img src="/images/nyuad3_logo.png" alt="NYUAD" width="40"> Global Outreach Marketing Intern @ [New York University Abu Dhabi](https://nyuad.nyu.edu/en/)
 *Jan 2022 - May 2022*  
 - **Increased follower count of [@studyawayatnyuad](https://www.instagram.com/studyawayatnyuad) by 30%** through producing **300+ posts and reels** tailored to audience interests and trending algorithms  
 - **Directed a 5-month content calendar, driving a 30% increase in weekly engagement** and **10% boost in audience retention**  
