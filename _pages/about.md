@@ -210,7 +210,7 @@ I’m a detail-oriented problem solver with a strong sense of ownership and a pa
 <br><br>
 
 # 🎖 Awards
-### <img src="/images/effie_logo.jpeg" alt="Effie" width="40"> Semi-Finalist @ [2025 Effie Collegiate US x Amazon Brand Challenge](https://www.effie.org/2025-effie-collegiate/)
+### <img src="/images/effie2_logo.png" alt="Effie" width="40"> Semi-Finalist @ [2025 Effie Collegiate US x Amazon Brand Challenge](https://www.effie.org/2025-effie-collegiate/)
 *Feb 2025 - Apr 2025*  
 Selected as one of six semi-finalists in the 2025 Effie Collegiate U.S. Competition out of 20+ participating universities. This national marketing challenge, hosted in collaboration with Amazon, invited students to develop an integrated campaign that demonstrates how Prime delivers everyday value to Gen Z.
 
@@ -218,7 +218,7 @@ Our campaign, Your Prime, Your Way, responded to Gen Z’s frustration with algo
 
 I led the segmentation analysis of Prime owners, sharers, and non-users, identifying behavioral patterns and unmet needs. Sharers, in particular, expressed a limited sense of autonomy and control—an insight that directly informed our campaign’s strategic direction and messaging.
 <p align="center">
-  <img src="/images/effie_semi.jpeg" alt="Effie Collegiate Semi-Finalist Certificate" style="max-width: 80; height: auto;">
+  <img src="/images/effie_semi.jpeg" alt="Effie Collegiate Semi-Finalist Certificate" width="400";">
 </p>
 
 <br><br>
