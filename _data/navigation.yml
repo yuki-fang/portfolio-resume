@@ -1,16 +1,15 @@
-# main links links
 main:
   - title: "About Me"
     url: "/#hi-there"
 
   - title: "Work Experience"
-    url: "/#-internships"
+    url: "/#internships"
 
   - title: "Technical Skills"
-    url: "/#-technical-skills"
+    url: "/#technical-skills"
 
   - title: "Awards & Certificates"
-    url: "/#-awards"
+    url: "/#awards"
 
   - title: "Projects"
-    url: "/#-projects"
+    url: "/#projects"
