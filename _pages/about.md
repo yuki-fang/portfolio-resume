@@ -35,6 +35,7 @@ I’m a detail-oriented problem solver with a strong sense of ownership and a pa
 - Market Research & Strategy
 
 <br><br>
+<span class='anchor' id='work-experience'></span>
 
 # 👩🏻‍💻 Internships
 *Putting what I’ve learned into action—applying data, strategy, and storytelling in real-world settings.*
@@ -94,6 +95,7 @@ I’m a detail-oriented problem solver with a strong sense of ownership and a pa
 
 <br><br>
 
+<span class='anchor' id='technical-skills'></span>
 # 🙆🏻‍♀️ Technical Skills 
 *As a curious problem-solver transforming data into marketing impact, these are the tools I rely on.*
 
@@ -140,6 +142,7 @@ I’m a detail-oriented problem solver with a strong sense of ownership and a pa
 ![CapCut](https://img.shields.io/badge/CapCut-000000?style=for-the-badge&logo=capcut&logoColor=white)
 
 <br><br>
+<span class='anchor' id='awards'></span>
 
 # 🏆 Awards & Certificates
 ### Awards
@@ -231,6 +234,7 @@ I led the segmentation analysis of Prime owners, sharers, and non-users, identif
 </table>
 
 <br><br>
+<span class='anchor' id='projects'></span>
 
 # 🖇️ Projects
 
