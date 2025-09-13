@@ -42,6 +42,9 @@ I’m a detail-oriented problem solver with a strong sense of ownership and a pa
 
 ### <img src="{{'/images/mabi_logo.jpeg' | relative_url }}" width="40"> Graduate Marketing Consultant @ [Mark Anthony Group](https://markanthony.com/)
 *Jun 2025 – Present*
+- Analyzed and visualized 60+ sales datasets across the top 20 RTD alcohol brands and 5 product attributes via **Excel & Tableau**, uncovering 4 consumption trends and delivering recommendations **projected to generate $45M in incremental revenue for White Claw and Mike’s Hard Lemonade***
+- Designed, launched, and leveraged a $4K custom **1Q survey** of 150 Gen Z & Millennial consumers to uncover 60% substitution and generational shifts toward flavored RTDs, revealing whitespace that drove targeted marketing strategies and a **projected 5% sales lift**
+- Developed and presented a 100+ slide strategic framework to senior leadership, driving alignment on 5 tactical priorities and resource allocation to **support targeted 7% long-term growth**
 
 ### <img src="{{'/images/kellogg2_logo.png' | relative_url }}" width="40"> Teaching Assistant @ [Northwestern Kellogg School of Management](https://www.kellogg.northwestern.edu/)
 *Mar 2025 - Jun 2025*  
@@ -52,9 +55,8 @@ I’m a detail-oriented problem solver with a strong sense of ownership and a pa
 
 ### <img src="{{'/images/cel_logo.png' | relative_url }}" width="40"> Marketing Analyst Consultant @ [Center for Enriched Living](https://www.experiencecel.org/)
 *Feb 2025 - Jun 2025*  
-- **Improved SEO data accuracy by 15%** by building a **Google Looker Studio** dashboard to track website traffic and audience engagement  
-- Audited 11 active Google Ads campaigns, uncovering tracking gaps in a $10K ad grant and projecting a **25% improvement in conversion tracking accuracy**  
-- Conducted a website SEO audit via **YoastSEO**, optimizing 65 pages with stronger keyphrases and meta descriptions—**projected to boost website engagement by 30%**
+- Audited website SEO by building a Looker Studio dashboard to track traffic and engagement, **improving key phrase and meta description accuracy on 65 webpages by 15% & projecting a 30% increase in website engagement**
+- Audited 11 active Google Ads campaigns, discovering tracking gaps in a $10K ad grant & **projecting a 25% improvement in conversion tracking accuracy**
 
 ### <img src="{{'/images/nyuad3_logo.png' | relative_url }}" width="40"> Global Outreach Marketing Intern @ [New York University Abu Dhabi](https://nyuad.nyu.edu/en/)
 *Feb 2024 - May 2024*  
@@ -63,8 +65,7 @@ I’m a detail-oriented problem solver with a strong sense of ownership and a pa
 
 ### <img src="{{'/images/bank_logo.png' | relative_url }}" width="40"> Information Technology Intern @ [Bank SinoPac](https://bank.sinopac.com/sinopacBT/en/index.html)
 *Jun 2023 - Aug 2023*  
-- **Segmented and analyzed user data across 10K+ ATM interactions** via **SQL** and **VBA**, identifying key accessibility gaps for Talking ATMs 
-- Proposed tailored enhancements for users with disabilities, projected to **increase Talking ATM usability by 30% and customer satisfaction by 15%**, and presented findings to leadership teams across 10 departments
+- Assessed 10K+ Talking ATM interactions using **SQL & Excel** to identify accessibility gaps for users with disabilities, recommending tailored enhancements to 10+ senior leaders, **projected to enhance customer satisfaction by 15%**
 
 ### <img src="{{'/images/tft_logo.png' | relative_url }}" width="40"> Marketing Analyst Intern @ [Teach For Taiwan](https://www.teach4taiwan.org/)
 *Oct 2022 - Feb 2023*  
@@ -74,8 +75,8 @@ I’m a detail-oriented problem solver with a strong sense of ownership and a pa
 
 ### <img src="{{'/images/tft_logo.png' | relative_url }}" width="40">Data Science Intern @ [Teach For Taiwan](https://www.teach4taiwan.org/)
 *Jun 2022 - Aug 2022*  
-- **Reduced data preparation time by 200% and market research time by 150%** by developing a streamlined data-cleaning framework using **Excel VBA** for a major recruitment research initiative in 2022  
-- Analyzed 8 years of Teach For Taiwan's bi-annual recruitment data via **RStudio**, identifying key weaknesses in hiring strategies, which are projected to **increase hiring efficiency by 25%**
+- **Reduced data preparation time by 200% and market research time by 150%** by developing a streamlined data-cleaning framework using **Excel VBA**
+- Analyzed 8 years of bi-annual recruitment data via **RStudio**, identifying key weaknesses in hiring strategies, which are projected to **boost hiring efficiency by 25%**
 
 ### <img src="{{'/images/humanid_logo.webp' | relative_url }}" width="40"> Brand Marketing Intern @ [humanID](https://www.human-internet.org/)
 *Apr 2022 - Jul 2022*  
