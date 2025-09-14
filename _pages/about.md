@@ -155,7 +155,8 @@ Semi-Finalist @ [2025 Effie Collegiate US x Amazon Brand Challenge](https://www.
 
 **Yu-Qi (Yuki) Fang**, Jingru Wang, Mallika Mehta
 
-[**Project**]([https://drive.google.com/file/d/1IW_-rAH8sKY--FDFWwrG1UOgcLsMZHdO/view?usp=sharing])
+[**Project Ouput**]([[https://drive.google.com/file/d/1IW_-rAH8sKY--FDFWwrG1UOgcLsMZHdO/view?usp=sharing](https://drive.google.com/drive/folders/1m3HD0IIzHxWwlQBQ8xfGSu4_jJLeoJda?usp=sharing)])
+[**Project Feedback**]([[https://drive.google.com/file/d/1IW_-rAH8sKY--FDFWwrG1UOgcLsMZHdO/view?usp=sharing](https://drive.google.com/file/d/1CkhxIgsh5p-oJsJCAD0sVPIlaqQ04bVs/view?usp=drive_link)])
 
 *Feb 2025 - Apr 2025*  
 
