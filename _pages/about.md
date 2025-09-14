@@ -100,7 +100,7 @@ I’m a detail-oriented problem solver with a strong sense of ownership and a pa
 
 # 🙆🏻‍♀️ Technical Skills 
 
-|  | Category | Tool(s) |
+|  | Category | Tools |
 |----------|----------|----------|
 | 1 | Languages |  <img width="76" alt="Screenshot 2024-08-06 at 2 52 09 PM" src="https://github.com/user-attachments/assets/d24a382e-b3c9-4976-8b46-2d6d37e5718d">![VBA](https://img.shields.io/badge/VBA-003B6F?style=for-the-badge&logo=microsoft-excel&logoColor=white)![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)|
 | 2 | Statistical Analysis | ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)![Stata](https://img.shields.io/badge/Stata-005DA6?style=for-the-badge&logo=data:image/svg+xml;base64,---custom---)![Radiant](https://img.shields.io/badge/Radiant-005DA6?style=for-the-badge&logo=data:image/svg+xml;base64,---custom---)![Gephi](https://img.shields.io/badge/gephi-000000?style=for-the-badge&logo=gephi&logoColor=white) |
