@@ -211,9 +211,6 @@ I led the segmentation analysis of Prime owners, sharers, and non-users, identif
 
 # 🖇️ Projects
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
 ## Marketing Models: Gender Differences in Pre-Roll Skippable Ad Acceptance Across Ad Brand Categories
 This project applies statistical modeling on 10,000 user sessions from a South Korean portal to examine gender-based differences in skippable pre-roll ad acceptance. Comparing linear probability, logistic, probit, and interval regression models, the study finds that **men are more likely to complete (and skip later) drink, finance, and medicine ads, while women are more likely to complete health food and movie ads and skip later on male-oriented ads**—offering strategies to improve ad acceptance.
 
@@ -227,14 +224,3 @@ This project applies statistical modeling on 10,000 user sessions from a South K
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Anipang Adoption & Kakao Engagement</div><img src='projects/MMs/kakao.png' alt="My Picture" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
-
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
-
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
-
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
