@@ -101,58 +101,15 @@ I’m a detail-oriented problem solver with a strong sense of ownership and a pa
 # 🙆🏻‍♀️ Technical Skills 
 |  | Category | Tool(s) |
 |----------|----------|----------|
-| 1 | Languages |  <img width="76" alt="Screenshot 2024-08-06 at 2 52 09 PM" src="https://github.com/user-attachments/assets/d24a382e-b3c9-4976-8b46-2d6d37e5718d"> ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white) ![VBA](https://img.shields.io/badge/VBA-003B6F?style=for-the-badge&logo=microsoft-excel&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)|
+| 1 | Languages |  <img width="76" alt="Screenshot 2024-08-06 at 2 52 09 PM" src="https://github.com/user-attachments/assets/d24a382e-b3c9-4976-8b46-2d6d37e5718d"> ![VBA](https://img.shields.io/badge/VBA-003B6F?style=for-the-badge&logo=microsoft-excel&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)|
 | 2 | Statistical Analysis | ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white) ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) ![Stata](https://img.shields.io/badge/Stata-005DA6?style=for-the-badge&logo=data:image/svg+xml;base64,---custom---) ![Radiant](https://img.shields.io/badge/Radiant-005DA6?style=for-the-badge&logo=data:image/svg+xml;base64,---custom---) ![Gephi](https://img.shields.io/badge/gephi-000000?style=for-the-badge&logo=gephi&logoColor=white) |
 | 3 | Data Visualization | ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white) ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Looker Studio](https://img.shields.io/badge/Google_Looker_Studio-4285F4?style=for-the-badge&logo=googleanalytics&logoColor=white)|
-| 4 | IDEs | ![RStudio](https://img.shields.io/badge/RStudio-4285F4?style=for-the-badge&logo=rstudio&logoColor=white) ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) | 
+| 4 | IDEs | ![RStudio](https://img.shields.io/badge/RStudio-4285F4?style=for-the-badge&logo=rstudio&logoColor=white) ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) | 
 | 5 | Market & Consumer Insights | ![Qualtrics](https://img.shields.io/badge/Qualtrics-04C9CE?style=for-the-badge&logo=qualtrics&logoColor=white) ![Brandwatch](https://img.shields.io/badge/Brandwatch-000000?style=for-the-badge&logo=brandwatch&logoColor=white) ![Communalytic](https://img.shields.io/badge/Communalytic-FFD9EC?style=for-the-badge&logo=data:image/svg+xml;base64,---) ![Vivvix](https://img.shields.io/badge/Vivvix-000000?style=for-the-badge&logo=data:image/svg+xml;base64,---) ![Mintel](https://img.shields.io/badge/Mintel-F6EB14?style=for-the-badge&logo=data:image/svg+xml;base64,---) |
 | 6 | Digital Marketing Analytics | ![Google Ads](https://img.shields.io/badge/Google_Ads-4285F4?style=for-the-badge&logo=googleads&logoColor=white) ![Google Tag Manager](https://img.shields.io/badge/Google_Tag_Manager-3756A6?style=for-the-badge&logo=googletagmanager&logoColor=white) ![Meta Ads](https://img.shields.io/badge/Meta_Ads-000000?style=for-the-badge&logo=facebook&logoColor=white)|
 | 7 | CRM & Automation | ![HubSpot](https://img.shields.io/badge/HubSpot-FF5809?style=for-the-badge&logo=hubspot&logoColor=white) ![Mailchimp](https://img.shields.io/badge/Mailchimp-FFE01B?style=for-the-badge&logo=mailchimp&logoColor=white) |
 | 8 | Website Development | ![Wix](https://img.shields.io/badge/wix-000?style=for-the-badge&logo=wix&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![Microsoft SharePoint ](https://img.shields.io/badge/Microsoft_SharePoint-0078D4?style=for-the-badge&logo=microsoft-sharepoint&logoColor=white)|
 | 9 | Design | ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white) ![CapCut](https://img.shields.io/badge/CapCut-000000?style=for-the-badge&logo=capcut&logoColor=white)|
-
-
-### Programming Languages
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![VBA](https://img.shields.io/badge/VBA-003B6F?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-### Statistical & Data Analysis
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![Stata](https://img.shields.io/badge/Stata-005DA6?style=for-the-badge&logo=data:image/svg+xml;base64,---custom---)
-![Radiant](https://img.shields.io/badge/Radiant-005DA6?style=for-the-badge&logo=data:image/svg+xml;base64,---custom---)
-
-### Data Visualization
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Looker Studio](https://img.shields.io/badge/Google_Looker_Studio-4285F4?style=for-the-badge&logo=googleanalytics&logoColor=white)
-![Gephi](https://img.shields.io/badge/Gephi-000000?style=for-the-badge&logo=gephi&logoColor=white)
-
-### Digital Marketing & Advertising
-![Google Ads](https://img.shields.io/badge/Google_Ads-4285F4?style=for-the-badge&logo=googleads&logoColor=white)
-![Google Tag Manager](https://img.shields.io/badge/Google_Tag_Manager-3756A6?style=for-the-badge&logo=googletagmanager&logoColor=white)
-![Meta Ads](https://img.shields.io/badge/Meta_Ads-000000?style=for-the-badge&logo=facebook&logoColor=white)
-
-### CRM & Automation
-![HubSpot](https://img.shields.io/badge/HubSpot-FF7A59?style=for-the-badge&logo=hubspot&logoColor=white)
-![Mailchimp](https://img.shields.io/badge/Mailchimp-FFE01B?style=for-the-badge&logo=mailchimp&logoColor=black)
-
-### Market & Consumer Insights
-![Qualtrics](https://img.shields.io/badge/Qualtrics-04C9CE?style=for-the-badge&logo=qualtrics&logoColor=white)
-![Brandwatch](https://img.shields.io/badge/Brandwatch-000000?style=for-the-badge&logo=brandwatch&logoColor=white)
-![Communalytic](https://img.shields.io/badge/Communalytic-FFD9EC?style=for-the-badge&logo=data:image/svg+xml;base64,---)
-![Vivvix](https://img.shields.io/badge/Vivvix-000000?style=for-the-badge&logo=data:image/svg+xml;base64,---)
-![Mintel](https://img.shields.io/badge/Mintel-F6EB14?style=for-the-badge&logo=data:image/svg+xml;base64,---)
-
-### IDEs & Tools
-![RStudio](https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=rstudio&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-### Design Tools
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
-![CapCut](https://img.shields.io/badge/CapCut-000000?style=for-the-badge&logo=capcut&logoColor=white)
 
 <br><br>
 <span class='anchor' id='-awards'></span>
