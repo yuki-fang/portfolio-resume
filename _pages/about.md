@@ -210,6 +210,8 @@ I led the segmentation analysis of Prime owners, sharers, and non-users, identif
 <span class='anchor' id='-projects'></span>
 
 # 🖇️ Projects
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Anipang Adoption & Kakao Engagement</div><img src='projects/MMs/kakao.png' alt="My Picture" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 
 ## Marketing Models: Gender Differences in Pre-Roll Skippable Ad Acceptance Across Ad Brand Categories
 This project applies statistical modeling on 10,000 user sessions from a South Korean portal to examine gender-based differences in skippable pre-roll ad acceptance. Comparing linear probability, logistic, probit, and interval regression models, the study finds that **men are more likely to complete (and skip later) drink, finance, and medicine ads, while women are more likely to complete health food and movie ads and skip later on male-oriented ads**—offering strategies to improve ad acceptance.
@@ -222,5 +224,4 @@ This project applies statistical modeling on 10,000 user sessions from a South K
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Anipang Adoption & Kakao Engagement</div><img src='projects/MMs/kakao.png' alt="My Picture" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+
