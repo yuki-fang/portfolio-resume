@@ -210,7 +210,7 @@ I led the segmentation analysis of Prime owners, sharers, and non-users, identif
 <span class='anchor' id='-projects'></span>
 
 # 🖇️ Projects
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Anipang Adoption & Kakao Engagement</div><img src='Projects/marketing_models/MarketingModels_Project1_thumbnail.png' alt="My Picture" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Pre-Roll Skippabale Ad Engagement</div><img src='Projects/marketing_models/MarketingModels_Project1_thumbnail.png' alt="My Picture" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 ## Marketing Models: Gender Differences in Pre-Roll Skippable Ad Acceptance Across Ad Brand Categories
