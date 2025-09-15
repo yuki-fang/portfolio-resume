@@ -201,7 +201,7 @@ This project applies statistical modeling on 10,000 user sessions from a South K
 [**Code**](Projects/marketing_models/MarketingModels_Project1_Yu-Qi.R) [**Slides**](Projects/marketing_models_MarketingModels_ResearchProject1_Yu-Qi.pdf) <strong><span class='show_paper_citations' data='4FA6C0AAAAAJ:qjMakFHDy7sC'></span></strong>
 
 - **Key Methods**: Linear Probability Model, Logistic & Probit Regression, Interval Regression
-- **Key Tools**: RStudio
+- **Key Tools**: RStudio (packages: *dplyr*, *ggplot2*, *lmtest*, *margins*) 
 
 </div>
 </div>
@@ -217,23 +217,23 @@ This project applies propensity-score matching and panel difference-in-differenc
 [**Code**](Projects/marketing_models/mm_hw2_yuki.R) [**Slides**](Projects/marketing_models/MarketingModels_Project2_Yu-Qi.pdf) <strong><span class='show_paper_citations' data='4FA6C0AAAAAJ:qjMakFHDy7sC'></span></strong>
 
 - **Key Methods**: Propensity Score Matching (PSM), Dummy-Variable Regression, One-Way Fixed-Effects Panel Regression
-- **Key Tools**: RStudio
+- **Key Tools**: RStudio (packages: *MatchIt*, *plm*, *lmtest*, *dplyr*, *ggplot2*)
 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Pre-Roll Skippabale Ad Engagement</div><img src='Projects/marketing_models/MM_Project2_thumbnail.png' alt="My Picture" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Churn Analysis & Retetion Strategy</div><img src='Projects/datascience/DS_churn_thumbnail.png' alt="My Picture" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 ## Data Science Case Study: Improving Subscriber Retention Through Churn Analysis
 <small>
-This project analyzes subscriber churn for a news website, identifying how trial offers, pricing, engagement patterns, content type, and device usage impact retention.
+This project analyzes churn among digital newspaper subscribers using a panel dataset of 12,170 observations and 32 variables, with each record representing a customer’s monthly subscription decision. From creating a Directed Acyclic Graph (DAG) to map factors influencing churn, I found that **regularity of engagement matters significantly more than intensity. Longer customer lifecycles, everyday viewing, and content consumption (sports/news) reduce churn, while higher prices and short-term trial offers increase it.**
 </small>  
 
-[**Code**](Projects/marketing_models/mm_hw2_yuki.R) [**Slides**](Projects/marketing_models/MarketingModels_Project2_Yu-Qi.pdf) <strong><span class='show_paper_citations' data='4FA6C0AAAAAJ:qjMakFHDy7sC'></span></strong>
+[**Code**](Projects/datascience/news_website_case_yuki.R) [**Slides**](Projects/datascience/DS_ChurnAnalysis.pdf) <strong><span class='show_paper_citations' data='4FA6C0AAAAAJ:qjMakFHDy7sC'></span></strong>
 
-- **Key Methods**: Propensity Score Matching (PSM), Dummy-Variable Regression, One-Way Fixed-Effects Panel Regression
-- **Key Tools**: RStudio
+- **Key Methods**: Logistic Regression Analysis, Directed Acyclic Graph (DAG) modeling, Panel Data Analysis
+- **Key Tools**: RStudio (packages: *dplyr*, *plm*, *ggplot2*)  
 
 </div>
 </div>
