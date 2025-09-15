@@ -121,8 +121,6 @@ I’m a detail-oriented problem solver with a strong sense of ownership and a pa
 
 [**Project Output**](https://drive.google.com/drive/folders/1m3HD0IIzHxWwlQBQ8xfGSu4_jJLeoJda?usp=sharing) [**Project Feedback**](https://drive.google.com/file/d/1CkhxIgsh5p-oJsJCAD0sVPIlaqQ04bVs/view?usp=drive_link)
 
-*Feb 2025 - Apr 2025*  
-
 Selected as one of six semi-finalists in the 2025 Effie Collegiate U.S. Competition out of 50+ participating teams. This national marketing challenge, hosted in collaboration with Amazon, invited students to develop an integrated campaign that demonstrates how Prime delivers everyday value to Gen Z.
 
 Our campaign, Your Prime, Your Way, responded to Gen Z’s frustration with algorithm-driven misrepresentation by positioning Prime as a tool for digital autonomy and personalization. We proposed a cross-channel strategy delivered through native content on TikTok, YouTube, Hulu, and Spotify—meeting Gen Z where their media habits and frustrations intersect.
