@@ -225,7 +225,7 @@ This project applies propensity-score matching and panel difference-in-differenc
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Video Virality Prediction</div><img src='Projects/machinelearning/ML_tiktok_thumbnail' alt="My Picture" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-## Machine Learning: Predicting Tiktok Video Share Engagement Using Emotional Expressions
+## Machine Learning: Using Comment Sentiment to Predict TikTok Video Share Engagement
 <small>
 This project analyzes how emotional expressions in video comments affect TikTok virality, measured by share count. Using regression and decision tree models with a train/test split, I found that emotionally charged content, especially disapproval sentiment, significantly increases shares, while admiration sentiment shows a negative association. These insights suggest that sentiment can drive active sharing and inform strategies for content design and recommendation systems.
 </small>  
