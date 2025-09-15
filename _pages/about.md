@@ -117,13 +117,9 @@ I’m a detail-oriented problem solver with a strong sense of ownership and a pa
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Market Research & Strategy</div><img src="{{'/images/effie_semi.jpeg' | relative_url }}" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-Semi-Finalist @ [2025 Effie Collegiate US x Amazon Brand Challenge](https://www.effie.org/2025-effie-collegiate/)
+**Semi-Finalist @ [2025 Effie Collegiate U.S. x Amazon Prime Brand Challenge](https://www.effie.org/2025-effie-collegiate/)**
 
-**Yu-Qi (Yuki) Fang**, Jingru Wang, Mallika Mehta
-
-[**Project Output**](https://drive.google.com/drive/folders/1m3HD0IIzHxWwlQBQ8xfGSu4_jJLeoJda?usp=sharing)
-
-[**Project Feedback**](https://drive.google.com/file/d/1CkhxIgsh5p-oJsJCAD0sVPIlaqQ04bVs/view?usp=drive_link)
+[**Project Output**](https://drive.google.com/drive/folders/1m3HD0IIzHxWwlQBQ8xfGSu4_jJLeoJda?usp=sharing) [**Project Feedback**](https://drive.google.com/file/d/1CkhxIgsh5p-oJsJCAD0sVPIlaqQ04bVs/view?usp=drive_link)
 
 *Feb 2025 - Apr 2025*  
 
