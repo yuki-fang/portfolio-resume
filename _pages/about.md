@@ -222,4 +222,20 @@ This project applies propensity-score matching and panel difference-in-differenc
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Pre-Roll Skippabale Ad Engagement</div><img src='Projects/marketing_models/MM_Project2_thumbnail.png' alt="My Picture" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+## Data Science Case Study: Improving Subscriber Retention Through Churn Analysis
+<small>
+This project analyzes subscriber churn for a news website, identifying how trial offers, pricing, engagement patterns, content type, and device usage impact retention.
+</small>  
+
+[**Code**](Projects/marketing_models/mm_hw2_yuki.R) [**Slides**](Projects/marketing_models/MarketingModels_Project2_Yu-Qi.pdf) <strong><span class='show_paper_citations' data='4FA6C0AAAAAJ:qjMakFHDy7sC'></span></strong>
+
+- **Key Methods**: Propensity Score Matching (PSM), Dummy-Variable Regression, One-Way Fixed-Effects Panel Regression
+- **Key Tools**: RStudio
+
+</div>
+</div>
+
 
