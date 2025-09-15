@@ -222,7 +222,7 @@ This project applies propensity-score matching and panel difference-in-differenc
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Video Virality Prediction</div><img src='Projects/machinelearning/ML_tiktok_thumbnail' alt="My Picture" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Video Virality Prediction</div><img src='Projects/machinelearning/ML_tiktok_thumbnail.png' alt="My Picture" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 ## Machine Learning: Using Comment Sentiment to Predict TikTok Video Share Engagement
