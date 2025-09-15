@@ -222,6 +222,22 @@ This project applies propensity-score matching and panel difference-in-differenc
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Video Virality Prediction</div><img src='Projects/machinelearning/ML_tiktok_thumbnail' alt="My Picture" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+## Machine Learning: Predicting Tiktok Video Share Engagement Using Emotional Expressions
+<small>
+This project analyzes how emotional expressions in video comments affect TikTok virality, measured by share count. Using regression and decision tree models with a train/test split, I found that emotionally charged content, especially disapproval sentiment, significantly increases shares, while admiration sentiment shows a negative association. These insights suggest that sentiment can drive active sharing and inform strategies for content design and recommendation systems.
+</small>  
+
+[**Code**](Projects/machinelearning/finalproject_yuki.R) [**Slides**](Projects/machinelearning/TiktokShareViralityAnalysis.pdf) <strong><span class='show_paper_citations' data='4FA6C0AAAAAJ:qjMakFHDy7sC'></span></strong>
+
+- **Key Methods**: Multiple Linear Regression, Regularized Regression (Ridge, Lasso), Stepwise Variable Selection with Cross-Validation, Decision Tree Ensemble, Random Forest, Train/Test Split
+- **Key Tools**: RStudio (packages: *tidyverse*, *glmnet*, *rpart*, *randomForest*)  
+
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Churn Analysis & Retetion Strategy</div><img src='Projects/datascience/DS_churn_thumbnail.png' alt="My Picture" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
