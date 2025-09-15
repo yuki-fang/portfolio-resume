@@ -37,7 +37,7 @@ I’m a detail-oriented problem solver with a strong sense of ownership and a pa
 <br><br>
 <span class='anchor' id='work-experience'></span>
 
-# 👩🏻‍💻 Internships
+# 👩🏻‍💻 Work Experience
 ### <img src="{{'/images/mabi_logo.jpeg' | relative_url }}" width="40"> Graduate Marketing Consultant @ [Mark Anthony Group](https://markanthony.com/)
 *Jun 2025 – Aug 2025*
 - Analyzed and visualized 60+ sales datasets across the top 20 RTD alcohol brands and 5 product attributes via **Excel & Tableau**, uncovering 4 consumption trends and delivering recommendations **projected to generate $45M in incremental revenue for White Claw and Mike’s Hard Lemonade***
@@ -114,7 +114,6 @@ I’m a detail-oriented problem solver with a strong sense of ownership and a pa
 <span class='anchor' id='-awards'></span>
 
 # 🏆 Awards & Certificates
-### Awards
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Market Research & Strategy</div><img src="{{'/images/effie_semi.jpeg' | relative_url }}" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -136,7 +135,6 @@ I led the segmentation analysis of Prime owners, sharers, and non-users, identif
 </div>
 </div>
 
-### Certificates
 <table>
   <tr>
     <td align="center">
