@@ -190,7 +190,7 @@ I led the segmentation analysis of Prime owners, sharers, and non-users, identif
 <span class='anchor' id='-projects'></span>
 
 # 🖇️ Projects
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Pre-Roll Skippabale Ad Engagement</div><img src='Projects/marketing_models/MarketingModels_Project1_thumbnail.png' alt="My Picture" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Skippabale Ad Engagement Prediction & Modeling</div><img src='Projects/marketing_models/MarketingModels_Project1_thumbnail.png' alt="My Picture" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 ## Marketing Models: Gender Differences in Pre-Roll Skippable Ad Acceptance Across Ad Brand Categories
@@ -206,7 +206,7 @@ This project applies statistical modeling on 10,000 user sessions from a South K
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Pre-Roll Skippabale Ad Engagement</div><img src='Projects/marketing_models/MM_Project2_thumbnail.png' alt="My Picture" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Gaming App Engagement Prediction & Modeling</div><img src='Projects/marketing_models/MM_Project2_thumbnail.png' alt="My Picture" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 ## Marketing Models: Impact of Anipang Gaming App Adoption on Competitor Gaming Apps Usage
