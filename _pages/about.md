@@ -25,8 +25,8 @@ At Medill, I focus on delivering data-driven marketing solutions that drive meas
 I’m a detail-oriented problem solver with a strong sense of ownership and a passion for transforming complex data into clear, actionable strategies. I’m especially excited by the intersection of data, business, and marketing—where analytical precision meets creative insight to move brands forward.
 
 ### Education
-<img src="{{ '/images/medill_logo.png' | relative_url }}" width="40"> M.S. in Integrated Marketing Communications, Conc. Data Analytics, Northwestern Medill, Sep 2024 – Dec 2025 <br>
-<img src="{{'/images/nyuad_logo_.png' | relative_url }}" width="40"> B.A. in Economics, New York University Abu Dhabi, Sep 2020 – May 2024 <br> 
+<img src="{{ '/images/medill_logo.png' | relative_url }}" width="40"> M.S. in Integrated Marketing Communications, Conc. Data Analytics, Northwestern Medill, Sep 2024 – Dec 2025 <br> <br>
+<img src="{{'/images/nyuad_logo_.png' | relative_url }}" width="40"> B.A. in Economics, New York University Abu Dhabi, Sep 2020 – May 2024 <br> <br>
 <img src="{{'/images/nyustern_logo.png' | relative_url }}" width="40"> Study Abroad @ New York University Stern School of Business, Conc. Business Analytics & Data Science, Sep 2022 – Dec 2022
 
 ### Career Interests
