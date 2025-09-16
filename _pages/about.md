@@ -41,9 +41,11 @@ I’m a detail-oriented problem solver with a strong sense of ownership and a pa
 <details>
 <summary> <img src="{{'/images/mabi_logo.jpeg' | relative_url }}" width="40"> Graduate Marketing Consultant @ <a href="https://markanthony.com/">Mark Anthony Group</a>, Jun 2025 – Aug 2025 </summary>
 
-- Analyzed and visualized 60+ sales datasets across the top 20 RTD alcohol brands and 5 product attributes via **Excel & Tableau**, uncovering 4 consumption trends and delivering recommendations **projected to generate $45M in incremental revenue for White Claw and Mike’s Hard Lemonade**
-- Designed, launched, and leveraged a $4K custom **1Q survey** of 150 Gen Z & Millennial consumers to uncover 60% substitution and generational shifts toward flavored RTDs, revealing whitespace that drove targeted marketing strategies and a **projected 5% sales lift**
-- Developed and presented a 100+ slide strategic framework to senior leadership, driving alignment on 5 tactical priorities and resource allocation to **support targeted 7% long-term growth**
+<ul>
+<li>Analyzed and visualized 60+ sales datasets across the top 20 RTD alcohol brands and 5 product attributes via <strong>Excel & Tableau</strong>, uncovering 4 consumption trends and delivering recommendations <strong>projected to generate $45M in incremental revenue for White Claw and Mike’s Hard Lemonade</strong></li>
+<li>Designed, launched, and leveraged a $4K custom <strong>1Q survey</strong> of 150 Gen Z & Millennial consumers to uncover 60% substitution and generational shifts toward flavored RTDs, revealing whitespace that drove targeted marketing strategies and a <strong>projected 5% sales lift</strong></li>
+<li>Developed and presented a 100+ slide strategic framework to senior leadership, driving alignment on 5 tactical priorities and resource allocation to <strong>support targeted 7% long-term growth</strong></li>
+</ul>
 </details>
 
 <details>
