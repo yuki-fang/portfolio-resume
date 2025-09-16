@@ -48,70 +48,108 @@ I’m a detail-oriented problem solver with a strong sense of ownership and a pa
 </ul>
 </details>
 
+
+
 <details>
 <summary> <img src="{{'/images/kellogg2_logo.png' | relative_url }}" width="40"> Teaching Assistant @ <a href="https://www.kellogg.northwestern.edu/">Northwestern Kellogg School of Management</a>, Mar 2025 - Jun 2025 </summary>
   
-**Course:** [MKTG 479: Critical Thinking in Digital and Social Media Marketing](https://www6.kellogg.northwestern.edu/CourseCatalog/coursecatalog/coursedetail?coursecatalogid=207197) with Professor [Ashlee Humphreys](https://www.kellogg.northwestern.edu/faculty/directory/humphreys_ashlee/)  
-- Led a class of 65 MBA students over a 10-week quarter, supporting instruction in digital and social media marketing strategy  
-- Hosted 5 office hours on **Tableau** and **Brandwatch** for campaign analysis and social listening  
-- Graded 50+ assignments on platform analytics and ad evaluation, including using **Tableau** for Air France campaign effectiveness and **Brandwatch** for Superbowl ad sentiment analysis
+<ul>
+<li><strong>Course:</strong> <a href="https://www6.kellogg.northwestern.edu/CourseCatalog/coursecatalog/coursedetail?coursecatalogid=207197">MKTG 479: Critical Thinking in Digital and Social Media Marketing</a> with Professor <a href="https://www.kellogg.northwestern.edu/faculty/directory/humphreys_ashlee/">Ashlee Humphreys</a></li>
+<li>Led a class of 65 MBA students over a 10-week quarter, supporting instruction in digital and social media marketing strategy</li>
+<li>Hosted 5 office hours on <strong>Tableau</strong> and <strong>Brandwatch</strong> for campaign analysis and social listening</li>
+<li>Graded 50+ assignments on platform analytics and ad evaluation, including <strong>Tableau</strong> for Air France campaign effectiveness and <strong>Brandwatch</strong> for Superbowl ad sentiment analysis</li>
+</ul>
 </details>
+
+
 
 <details>
 <summary>  <img src="{{'/images/cel_logo.png' | relative_url }}" width="40"> Marketing Analyst Intern @ <a href="https://www.experiencecel.org/">Center for Enriched Living</a>, Feb 2025 - Jun 2025 </summary>
   
-- Audited website SEO by building a Looker Studio dashboard to track traffic and engagement, **improving key phrase and meta description accuracy on 65 webpages by 15% & projecting a 30% increase in website engagement**
-- Audited 11 active Google Ads campaigns, discovering tracking gaps in a $10K ad grant & **projecting a 25% improvement in conversion tracking accuracy**
+<ul>
+<li>Audited website SEO by building a Looker Studio dashboard to track traffic and engagement, <strong>improving key phrase and meta description accuracy on 65 webpages by 15% and projecting a 30% increase in website engagement</strong></li>
+<li>Audited 11 active Google Ads campaigns, discovering tracking gaps in a $10K ad grant and <strong>projecting a 25% improvement in conversion tracking accuracy</strong></li>
+</ul>
+
 </details>
 
+  
 <details>
 <summary> <img src="{{'/images/nyuad3_logo.png' | relative_url }}" width="40"> Global Outreach Marketing Intern @ <a href="https://nyuad.nyu.edu/en/">New York University Abu Dhabi</a>, Feb 2024 – May 2024 </summary>
-  
-- **Increased social media engagement by 150%** for [@studyawayatnyuad](https://www.instagram.com/studyawayatnyuad/?hl=en) by creating 100+ posts and reels over 4 months, tailored to follower interests and optimized for platform algorithms  
-- **Directed a 4-month content calendar across Instagram and email marketing**, collaborating with 5+ departments to deliver weekly messaging aligned with institutional goals
+
+<ul>
+<li><strong>Increased social media engagement by 150%</strong> for <a href="https://www.instagram.com/studyawayatnyuad/?hl=en">@studyawayatnyuad</a> by creating 100+ posts and reels over 4 months, tailored to follower interests and optimized for platform algorithms</li>
+<li><strong>Directed a 4-month content calendar across Instagram and email marketing</strong>, collaborating with 5+ departments to deliver weekly messaging aligned with institutional goals</li>
+</ul>
+
 </details>
+
+
 
 <details>
 <summary> <img src="{{'/images/bank_logo.png' | relative_url }}" width="40"> Information Technology Intern @ <a href="https://bank.sinopac.com/sinopacBT/en/index.html">Bank SinoPac</a>, Jun 2023 – Aug 2023 </summary>
   
-- Assessed 10K+ Talking ATM interactions using **SQL & Excel** to identify accessibility gaps for users with disabilities, recommending tailored enhancements to 10+ senior leaders, **projected to enhance customer satisfaction by 15%**
+<ul>
+<li>Assessed 10K+ Talking ATM interactions using <strong>SQL & Excel</strong> to identify accessibility gaps for users with disabilities, recommending tailored enhancements to 10+ senior leaders, <strong>projected to enhance customer satisfaction by 15%</strong></li>
+</ul>
+
 </details>
+
+
 
 <details>
 <summary> <img src="{{'/images/tft_logo.png' | relative_url }}" width="40"> Marketing Analyst Intern @ <a href="https://www.teach4taiwan.org/">Teach For Taiwan</a>, Oct 2022 – Feb 2023 </summary>
   
-- Built a **Google Looker Studio** dashboard to track website traffic and campaign performance, identifying high-exit pages and optimizing targeting strategy—projected to **increase website engagement by 20%**  
-- Developed 4 data-driven audience personas based on applicant behavior, guiding paid media and email campaigns, projected to **improve applicant conversion rates by 12%**  
-- Presented long-term recruitment strategy to the head of marketing, **analyzing data over a 5-month period via Google Analytics** to provide recommendations for expanding outreach to underrepresented regions and 10+ target universities across Taiwan, reporting weekly and monthly traffic insights
+<ul>
+<li>Built a <strong>Google Looker Studio</strong> dashboard to track website traffic and campaign performance, identifying high-exit pages and optimizing targeting strategy—projected to <strong>increase website engagement by 20%</strong></li>
+<li>Developed 4 data-driven audience personas based on applicant behavior, guiding paid media and email campaigns, projected to <strong>improve applicant conversion rates by 12%</strong></li>
+<li>Presented long-term recruitment strategy to the head of marketing, analyzing data over a 5-month period via Google Analytics to provide recommendations for expanding outreach to underrepresented regions and 10+ target universities across Taiwan, reporting weekly and monthly traffic insights</li>
+</ul>
+
 </details>
+
+
 
 <details>
 <summary> <img src="{{'/images/tft_logo.png' | relative_url }}" width="40"> Data Science Intern @ <a href="https://www.teach4taiwan.org/">Teach For Taiwan</a>, Oct 2022 – Feb 2023 </summary>
   
-- **Reduced data preparation time by 200% and market research time by 150%** by developing a streamlined data-cleaning framework using **Excel VBA**
-- Analyzed 8 years of bi-annual recruitment data via **RStudio**, identifying key weaknesses in hiring strategies, which are projected to **boost hiring efficiency by 25%**
+<ul>
+<li><strong>Reduced data preparation time by 200% and market research time by 150%</strong> by developing a streamlined data-cleaning framework using <strong>Excel VBA</strong></li>
+<li>Analyzed 8 years of bi-annual recruitment data via <strong>RStudio</strong>, identifying key weaknesses in hiring strategies, which are projected to <strong>boost hiring efficiency by 25%</strong></li>
+</ul>
+
 </details>
 
 <details>
 <summary> <img src="{{'/images/humanid_logo.webp' | relative_url }}" width="40"> Brand Marketing Intern @ <a href="https://www.human-internet.org/">humanID</a>, Apr 2022 – Jul 2022 </summary>
   
-- **Increased website traffic by 5%** through the creation of 24 bi-weekly SEO-focused articles aligned with trending search topics, using engagement data to continuously refine content strategy and improve audience targeting  
-- Directed a 3-month content calendar based on SEO analysis and engagement metrics, achieving an **8% increase in article click-through rates** and a **15% improvement in content engagement**, leading to more effective brand messaging and stronger audience connection
+<ul>
+<li><strong>Increased website traffic by 5%</strong> through the creation of 24 bi-weekly SEO-focused articles aligned with trending search topics, using engagement data to continuously refine content strategy and improve audience targeting</li>
+<li>Directed a 3-month content calendar based on SEO analysis and engagement metrics, achieving an <strong>8% increase in article click-through rates</strong> and a <strong>15% improvement in content engagement</strong>, leading to more effective brand messaging and stronger audience connection</li>
+</ul>
+
 </details>
+
 
 <details>
 <summary> <img src="{{'/images/nyuad3_logo.png' | relative_url }}" width="40"> Global Outreach Marketing Intern @ <a href="https://nyuad.nyu.edu/en/">New York University Abu Dhabi</a>, Jan 2022 – May 2022 </summary>
   
-- **Increased follower count of [@studyawayatnyuad](https://www.instagram.com/studyawayatnyuad) by 30%** through producing **300+ posts and reels** tailored to audience interests and trending algorithms  
-- **Directed a 5-month content calendar, driving a 30% increase in weekly engagement** and **10% boost in audience retention**  
-- Analyzed social media engagement trends using **RStudio**, reporting insights to the head of social media, leading to a **20% improvement** in content targeting and strategic adjustments
+<ul>
+<li><strong>Increased follower count of <a href="https://www.instagram.com/studyawayatnyuad">[@studyawayatnyuad](https://www.instagram.com/studyawayatnyuad)</a> by 30%</strong> through producing <strong>300+ posts and reels</strong> tailored to audience interests and trending algorithms</li>
+<li><strong>Directed a 5-month content calendar, driving a 30% increase in weekly engagement</strong> and <strong>10% boost in audience retention</strong></li>
+<li>Analyzed social media engagement trends using <strong>RStudio</strong>, reporting insights to the head of social media, leading to a <strong>20% improvement</strong> in content targeting and strategic adjustments</li>
+</ul>
+
 </details>
 
 <details>
 <summary> <img src="{{'/images/millie_logo.jpeg' | relative_url }}" width="40"> Business Development Intern @ <a href="http://www.milliegroup.com">Millie Group</a>, Sep 2021 – Dec 2021 </summary>
   
-- **Expanded the company’s target audience by 15%** through strategic outreach, conducting **100+ personalized engagements** with schools and educational institutions to promote Millie Group’s education services  
-- **Directed and marketed an online panel for 250+ high school students globally**, sourcing speakers (mentors, investors, and professionals), and creating **10+ targeted social media ads**, resulting in a **20% increase** in student sign-ups and positive engagement feedback
+<ul>
+<li><strong>Expanded the company’s target audience by 15%</strong> through strategic outreach, conducting <strong>100+ personalized engagements</strong> with schools and educational institutions to promote Millie Group’s education services</li>
+<li><strong>Directed and marketed an online panel for 250+ high school students globally</strong>, sourcing speakers (mentors, investors, and professionals), and creating <strong>10+ targeted social media ads</strong>, resulting in a <strong>20% increase</strong> in student sign-ups and positive engagement feedback</li>
+</ul>
+
 </details>
 
 <br><br>
