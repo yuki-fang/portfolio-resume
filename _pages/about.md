@@ -48,7 +48,7 @@ I’m a detail-oriented problem solver with a strong sense of ownership and a pa
 </ul>
 </details>
 
-</br>
+<br>
 
 <details>
 <summary> <img src="{{'/images/kellogg2_logo.png' | relative_url }}" width="40"> Teaching Assistant @ <a href="https://www.kellogg.northwestern.edu/">Northwestern Kellogg School of Management</a>, Mar 2025 - Jun 2025 </summary>
@@ -61,7 +61,7 @@ I’m a detail-oriented problem solver with a strong sense of ownership and a pa
 </ul>
 </details>
 
-</br>
+<br>
 
 <details>
 <summary>  <img src="{{'/images/cel_logo.png' | relative_url }}" width="40"> Marketing Analyst Intern @ <a href="https://www.experiencecel.org/">Center for Enriched Living</a>, Feb 2025 - Jun 2025 </summary>
@@ -72,7 +72,7 @@ I’m a detail-oriented problem solver with a strong sense of ownership and a pa
 </ul>
 </details>
 
-</br>
+<br>
   
 <details>
 <summary> <img src="{{'/images/nyuad3_logo.png' | relative_url }}" width="40"> Global Outreach Marketing Intern @ <a href="https://nyuad.nyu.edu/en/">New York University Abu Dhabi</a>, Feb 2024 – May 2024 </summary>
@@ -83,7 +83,7 @@ I’m a detail-oriented problem solver with a strong sense of ownership and a pa
 </ul>
 </details>
 
-</br>
+<br>
 
 <details>
 <summary> <img src="{{'/images/bank_logo.png' | relative_url }}" width="40"> Information Technology Intern @ <a href="https://bank.sinopac.com/sinopacBT/en/index.html">Bank SinoPac</a>, Jun 2023 – Aug 2023 </summary>
@@ -93,7 +93,7 @@ I’m a detail-oriented problem solver with a strong sense of ownership and a pa
 </ul>
 </details>
 
-</br>
+<br>
 
 <details>
 <summary> <img src="{{'/images/tft_logo.png' | relative_url }}" width="40"> Marketing Analyst Intern @ <a href="https://www.teach4taiwan.org/">Teach For Taiwan</a>, Oct 2022 – Feb 2023 </summary>
@@ -105,7 +105,7 @@ I’m a detail-oriented problem solver with a strong sense of ownership and a pa
 </ul>
 </details>
 
-</br>
+<br>
 
 <details>
 <summary> <img src="{{'/images/tft_logo.png' | relative_url }}" width="40"> Data Science Intern @ <a href="https://www.teach4taiwan.org/">Teach For Taiwan</a>, Oct 2022 – Feb 2023 </summary>
@@ -116,7 +116,7 @@ I’m a detail-oriented problem solver with a strong sense of ownership and a pa
 </ul>
 </details>
 
-</br>
+<br>
 
 <details>
 <summary> <img src="{{'/images/humanid_logo.webp' | relative_url }}" width="40"> Brand Marketing Intern @ <a href="https://www.human-internet.org/">humanID</a>, Apr 2022 – Jul 2022 </summary>
@@ -127,7 +127,7 @@ I’m a detail-oriented problem solver with a strong sense of ownership and a pa
 </ul>
 </details>
 
-</br>
+<br>
 
 <details>
 <summary> <img src="{{'/images/nyuad3_logo.png' | relative_url }}" width="40"> Global Outreach Marketing Intern @ <a href="https://nyuad.nyu.edu/en/">New York University Abu Dhabi</a>, Jan 2022 – May 2022 </summary>
@@ -139,7 +139,7 @@ I’m a detail-oriented problem solver with a strong sense of ownership and a pa
 </ul>
 </details>
 
-</br>
+<br>
 
 <details>
 <summary> <img src="{{'/images/millie_logo.jpeg' | relative_url }}" width="40"> Business Development Intern @ <a href="http://www.milliegroup.com">Millie Group</a>, Sep 2021 – Dec 2021 </summary>
