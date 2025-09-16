@@ -338,4 +338,19 @@ This project segments 10,000 cable TV subscriber households based on spending fo
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Customer Cluster Analysis</div><img src='Projects/socialnetworks/sn_thumbnail.png' alt="My Picture" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+## Social Networks Analysis: Analyzing How Product Variations Influence Purchase Intent, Customer Clusters, & Cannibalization Risk
+<small>
+This project explored whether Jellycat’s Bartholomew Bear variations expand the customer base or cannibalize the original bear. Using clustering and audience duplication analysis in Gephi, I **identified two customer groups**: uniqueness-focused buyers who favor distinct variations while still purchasing the original, and collectability-focused buyers who show lower intent for the original and higher risk of shifting to certain variations (e.g., Bathrobe Bear). The **findings reveal which variations complement the original and which carry greater cannibalization risk**. 
+</small>  
+
+[**Survey Data & Analysis**](Projects/socialnetworks/sn_data.xlsx) [**Slides**](Projects/socialnetworks/sn_.pdf) <strong><span class='show_paper_citations' data='4FA6C0AAAAAJ:qjMakFHDy7sC'></span></strong>
+
+- **Key Methods**: Clustering Analysis, Audience Duplication Analysis
+- **Key Tools**: Gephi, Excel
+
+</div>
+</div>
 
