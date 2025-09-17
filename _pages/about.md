@@ -306,6 +306,22 @@ This project analyzes how emotional expressions in video comments affect TikTok 
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Video Virality Prediction</div><img src='Projects/machinelearning/ML_freshmart.png' alt="My Picture" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+## Machine Learning: FreshMart Growth Playbook: Optimizing Pricing, Marketing Spend, & Seasonality
+<small>
+This project analyzes FreshMart’s sales data to optimize pricing, marketing spend, and campaign timing. Using OLS, Ridge, and Lasso regressions, along with stepwise selection, I identified price sensitivity, effective marketing channels, and the impact of multicollinearity. From conducting seasonal modeling with LOESS, B-splines, and GAM, I further discover optimal timing for TikTok influencer activations to amplify peaks and smooth sales valleys.
+</small>  
+
+[**Code**](Projects/machinelearning/w7_hw5_yuki.R) [**Slides**](Projects/machinelearning/ML_freshmart.pdf) <strong><span class='show_paper_citations' data='4FA6C0AAAAAJ:qjMakFHDy7sC'></span></strong>
+
+- **Key Methods**: OLS, Ridge, and Lasso regression; Stepwise/backward feature selection; LOESS smoothing, B-splines, and Generalized Additive Models (GAM); Model comparison with AIC and cross-validation
+- **Key Tools**: RStudio (packages: *glmnet*, *splines*, *mgcv*, *stats*, *ggplot2*, *dplyr*)  
+
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Churn Analysis & Retetion Strategy</div><img src='Projects/datascience/DS_churn_thumbnail.png' alt="My Picture" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
