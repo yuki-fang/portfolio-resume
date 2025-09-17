@@ -306,7 +306,7 @@ This project analyzes how emotional expressions in video comments affect TikTok 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Video Virality Prediction</div><img src='Projects/machinelearning/ML_freshmart.png' alt="My Picture" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Marketing Spend Optimization</div><img src='Projects/machinelearning/ML_freshmart.png' alt="My Picture" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 ## Machine Learning: FreshMart Growth Playbook: Optimizing Pricing, Marketing Spend, & Seasonality
