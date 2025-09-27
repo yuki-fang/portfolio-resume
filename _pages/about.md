@@ -47,9 +47,9 @@ I’m a detail-oriented problem solver with a strong sense of ownership and a pa
 </summary>
 
 <ul>
-<li>Analyzed and visualized 60+ sales datasets across the top 20 RTD alcohol brands and 5 product attributes via <strong>Excel & Tableau</strong>, uncovering 4 consumption trends and delivering recommendations <strong>projected to generate $45M in incremental revenue for White Claw and Mike’s Hard Lemonade</strong></li>
-<li>Designed, launched, and leveraged a $4K custom <strong>1Q survey</strong> of 150 Gen Z & Millennial consumers to uncover 60% substitution and generational shifts toward flavored RTDs, revealing whitespace that drove targeted marketing strategies and a <strong>projected 5% sales lift</strong></li>
-<li>Developed and presented a 100+ slide strategic framework to senior leadership, driving alignment on 5 tactical priorities and resource allocation to <strong>support targeted 7% long-term growth</strong></li>
+<li>Identified 4 emerging consumer trends and developed 2 campaign strategies for White Claw and 3 for Mike’s Hard Lemonade, projected to drive $45M incremental revenue <strong>(Consumer Insights)(Campaign Strategy)</strong></li>
+<li>Analyzed and visualized 60+ sales datasets across 20 leading ready-to-drink alcohol brands using <strong>Excel</strong> and <strong>Tableau</strong>, uncovering category whitespace and performance drivers across five product attributes <strong>(Market Research)</strong></li>
+<li>Designed and launched a $4K custom <strong>1Q</strong> survey of 150 Gen Z and Millennial consumers, revealing that 60% are substituting ready-to-drinks with alternative beverages, informing targeted strategies projected to increase sales by 5% <strong>(Survey Design)</strong></li>
 </ul>
 </details>
 
