@@ -405,7 +405,7 @@ This project analyzes churn among digital newspaper subscribers using a panel da
         Click the image to view the GitHub project  </div>
   <div class='paper-box-text' markdown="1">
 
-  ## Data Science: K-Means Clustering to Identify Subscriber Segments in Cable Services
+## Data Science: K-Means Clustering to Identify Subscriber Segments in Cable Services
   <small>
   This project segments 10,000 cable TV subscriber households based on spending for video, internet, and phone services. From conducting K-means clustering, I was able to **identify actionable customer segments—high, mid, and low value—to guide personalized marketing offers, optimize retention, and increase revenue.** Insights highlight spending patterns, service preferences, and opportunities for targeted upselling.
   </small>  
