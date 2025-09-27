@@ -258,22 +258,6 @@ I led the segmentation analysis of Prime owners, sharers, and non-users, identif
 <span class='anchor' id='-projects'></span>
 
 # 🖇️ Projects
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Skippabale Ad Engagement Prediction & Strategy</div><img src='Projects/marketing_models/MarketingModels_Project1_thumbnail.png' alt="My Picture" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-## Marketing Models: Gender Differences in Pre-Roll Skippable Ad Acceptance Across Ad Brand Categories
-<small>
-This project applies statistical modeling on 10,000 user sessions from a South Korean portal to examine gender-based differences in skippable pre-roll ad acceptance. Comparing linear probability, logistic, probit, and interval regression models, the study finds that **men are more likely to complete (and skip later) drink, finance, and medicine ads, while women are more likely to complete health food and movie ads and skip later on male-oriented ads**—offering strategies to improve ad acceptance.
-</small>  
-
-[**Code**](https://github.com/yuki-fang/pre-roll-ad-gender-analysis/blob/main/code/MarketingModels_Project%201_Yu-Qi.R) [**Slides**](https://github.com/yuki-fang/pre-roll-ad-gender-analysis/blob/main/slides/Marketing%20Models_Research%20Project%201_Yu-Qi.pdf) <strong><span class='show_paper_citations' data='4FA6C0AAAAAJ:qjMakFHDy7sC'></span></strong>
-
-- **Key Methods**: Linear Probability Model, Logistic & Probit Regression, Interval Regression
-- **Key Tools**: RStudio (packages: *dplyr*, *ggplot2*, *lmtest*, *margins*) 
-
-</div>
-</div>
-
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
@@ -296,6 +280,9 @@ This project applies statistical modeling on 10,000 user sessions from a South K
 - **Key Tools**: RStudio (packages: *dplyr*, *ggplot2*, *lmtest*, *margins*) 
 
   </div>
+</div>
+
+</div>
 </div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">App Engagement Modeling & Competitor Analysis</div><img src='Projects/marketing_models/MM_Project2_thumbnail.png' alt="My Picture" width="100%"></div></div>
