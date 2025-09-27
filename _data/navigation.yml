@@ -2,7 +2,7 @@ main:
   - title: "About Me"
     url: "#about-me"
   - title: "Work Experience"
-    url: "#-internships"
+    url: "#internships"
   - title: "Technical Skills"
     url: "#-technical-skills"
   - title: "Awards & Certificates"
