@@ -267,6 +267,7 @@ I led the segmentation analysis of Prime owners, sharers, and non-users, identif
       </a>
       <div style="font-size: 0.9em; color: gray; text-align: center; margin-top: 4px;">
         Click the image to view the GitHub project
+      </div>
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
@@ -283,6 +284,7 @@ This project applies statistical modeling on 10,000 user sessions from a South K
 
 </div>
 </div>
+
 
 <div class='paper-box'>
   <div class='paper-box-image'>
