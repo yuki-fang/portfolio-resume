@@ -401,11 +401,14 @@ This project analyzes churn among digital newspaper subscribers using a panel da
         <img src='Projects/datascience/DS_clustering.png' alt="My Picture" width="100%">
       </div>
     </a>
-      <div style="font-size: 0.9em; color: gray; text-align: center; margin-top: 4px;">
-        Click the image to view the GitHub project  </div>
-  <div class='paper-box-text' markdown="1">
+    <div style="font-size: 0.9em; color: gray; text-align: center; margin-top: 4px;">
+      Click the image to view the GitHub project
+    </div>
+  </div>
 
-## Data Science: K-Means Clustering to Identify Subscriber Segments in Cable Services
+  <div class='paper-box-text' markdown="1">
+  
+  ## Data Science: K-Means Clustering to Identify Subscriber Segments in Cable Services
   <small>
   This project segments 10,000 cable TV subscriber households based on spending for video, internet, and phone services. From conducting K-means clustering, I was able to **identify actionable customer segments—high, mid, and low value—to guide personalized marketing offers, optimize retention, and increase revenue.** Insights highlight spending patterns, service preferences, and opportunities for targeted upselling.
   </small>  
@@ -416,8 +419,14 @@ This project analyzes churn among digital newspaper subscribers using a panel da
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Customer Cluster Analysis</div><img src='Projects/socialnetworks/sn_thumbnail.png' alt="My Picture" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">Customer Cluster Analysis</div>
+      <img src='Projects/socialnetworks/sn_thumbnail.png' alt="My Picture" width="100%">
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
 
 ## Social Networks Analysis: Analyzing How Product Variations Influence Purchase Intent, Customer Clusters, & Cannibalization Risk
 <small>
