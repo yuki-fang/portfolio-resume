@@ -401,9 +401,8 @@ This project analyzes churn among digital newspaper subscribers using a panel da
         <img src='Projects/datascience/DS_clustering.png' alt="My Picture" width="100%">
       </div>
     </a>
-    <p style="text-align:center;"><em>Click image to view the full project on GitHub</em></p>
-  </div>
-
+      <div style="font-size: 0.9em; color: gray; text-align: center; margin-top: 4px;">
+        Click the image to view the GitHub project  </div>
   <div class='paper-box-text' markdown="1">
 
   ## Data Science: K-Means Clustering to Identify Subscriber Segments in Cable Services
