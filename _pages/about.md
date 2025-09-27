@@ -282,21 +282,30 @@ This project applies statistical modeling on 10,000 user sessions from a South K
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">App Engagement Modeling & Competitor Analysis</div><img src='Projects/marketing_models/MM_Project2_thumbnail.png' alt="My Picture" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">App Engagement Modeling & Competitor Analysis</div>
+      <a href="https://github.com/yuki-fang/anipang-adoption-competitor-analysis" target="_blank">
+        <img src='Projects/marketing_models/MM_Project2_thumbnail.png' alt="Project Thumbnail" width="100%">
+      </a>
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
 
 ## Marketing Models: Impact of Anipang Gaming App Adoption on Competitor Gaming Apps Usage
 <small>
 This project applies propensity-score matching and panel difference-in-differences on weekly data from 849 Android users to examine how adopting the hit game Anipang impacts rival game usage. Using dummy-variable OLS and fixed-effects regressions across ten matched samples, I found that **adoption neither significantly reduces time spent on nor the number of rival (non-Kakao) games, nor does it cannibalize usage from competing platforms.**
 </small>  
 
-[**Code**](Projects/marketing_models/mm_hw2_yuki.R) [**Slides**](Projects/marketing_models/MarketingModels_Project2_Yu-Qi.pdf) <strong><span class='show_paper_citations' data='4FA6C0AAAAAJ:qjMakFHDy7sC'></span></strong>
+<strong><span class='show_paper_citations' data='4FA6C0AAAAAJ:qjMakFHDy7sC'></span></strong>
 
-- **Key Methods**: Propensity Score Matching (PSM), Dummy-Variable Regression, One-Way Fixed-Effects Panel Regression
+- **Key Methods**: Propensity Score Matching (PSM), Dummy-Variable Regression, One-Way Fixed-Effects Panel Regression  
 - **Key Tools**: RStudio (packages: *MatchIt*, *plm*, *lmtest*, *dplyr*, *ggplot2*)
 
 </div>
 </div>
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Video Virality Prediction</div><img src='Projects/machinelearning/ML_tiktok_thumbnail.png' alt="My Picture" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
