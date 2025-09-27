@@ -39,7 +39,12 @@ I’m a detail-oriented problem solver with a strong sense of ownership and a pa
 
 # 👩🏻‍💻 Work Experience
 <details>
-<summary> <img src="{{'/images/mabi_logo.jpeg' | relative_url }}" width="40"> Graduate Marketing Consultant @ <a href="https://markanthony.com/">Mark Anthony Group</a>, Jun 2025 – Aug 2025 </summary>
+<summary> 
+  <a href="https://markanthony.com/" target="_blank">
+    <img src="{{'/images/mabi_logo.jpeg' | relative_url }}" width="40">
+  </a>
+  Graduate Marketing Consultant @ Mark Anthony Group (White Claw, Mike's Hard Lemonade), Jun 2025 – Aug 2025
+</summary>
 
 <ul>
 <li>Analyzed and visualized 60+ sales datasets across the top 20 RTD alcohol brands and 5 product attributes via <strong>Excel & Tableau</strong>, uncovering 4 consumption trends and delivering recommendations <strong>projected to generate $45M in incremental revenue for White Claw and Mike’s Hard Lemonade</strong></li>
@@ -51,7 +56,13 @@ I’m a detail-oriented problem solver with a strong sense of ownership and a pa
 <br>
 
 <details>
-<summary> <img src="{{'/images/kellogg2_logo.png' | relative_url }}" width="40"> Teaching Assistant @ <a href="https://www.kellogg.northwestern.edu/">Northwestern Kellogg School of Management</a>, Mar 2025 - Jun 2025 </summary>
+<summary> 
+  <a href="https://www.kellogg.northwestern.edu/" target="_blank">
+    <img src="{{'/images/kellogg2_logo.png' | relative_url }}" width="40">
+  </a>
+  Teaching Assistant @ Northwestern Kellogg School of Management, Mar 2025 – Jun 2025
+</summary>
+
   
 <ul>
 <li><strong>Course:</strong> <a href="https://www6.kellogg.northwestern.edu/CourseCatalog/coursecatalog/coursedetail?coursecatalogid=207197">MKTG 479: Critical Thinking in Digital and Social Media Marketing</a> with Professor <a href="https://www.kellogg.northwestern.edu/faculty/directory/humphreys_ashlee/">Ashlee Humphreys</a></li>
@@ -64,7 +75,12 @@ I’m a detail-oriented problem solver with a strong sense of ownership and a pa
 <br>
 
 <details>
-<summary>  <img src="{{'/images/cel_logo.png' | relative_url }}" width="40"> Marketing Analyst Intern @ <a href="https://www.experiencecel.org/">Center for Enriched Living</a>, Feb 2025 - Jun 2025 </summary>
+<summary>  
+  <a href="https://www.experiencecel.org/" target="_blank">
+    <img src="{{'/images/cel_logo.png' | relative_url }}" width="40">
+  </a>
+  Marketing Analyst Intern @ Center For Enriched Living, Feb 2025 – Jun 2025
+</summary>
   
 <ul>
 <li>Audited website SEO by building a Looker Studio dashboard to track traffic and engagement, <strong>improving key phrase and meta description accuracy on 65 webpages by 15% and projecting a 30% increase in website engagement</strong></li>
@@ -75,7 +91,12 @@ I’m a detail-oriented problem solver with a strong sense of ownership and a pa
 <br>
   
 <details>
-<summary> <img src="{{'/images/nyuad3_logo.png' | relative_url }}" width="40"> Global Outreach Marketing Intern @ <a href="https://nyuad.nyu.edu/en/">New York University Abu Dhabi</a>, Feb 2024 – May 2024 </summary>
+<summary>  
+  <a href="https://nyuad.nyu.edu/en/" target="_blank">
+    <img src="{{'/images/nyuad3_logo.png' | relative_url }}" width="40">
+  </a>
+  Global Outreach Marketing Intern @ New York Univeristy, Feb 2024 – May 2024
+</summary>
 
 <ul>
 <li><strong>Increased social media engagement by 150%</strong> for <a href="https://www.instagram.com/studyawayatnyuad/?hl=en">@studyawayatnyuad</a> by creating 100+ posts and reels over 4 months, tailored to follower interests and optimized for platform algorithms</li>
@@ -86,7 +107,12 @@ I’m a detail-oriented problem solver with a strong sense of ownership and a pa
 <br>
 
 <details>
-<summary> <img src="{{'/images/bank_logo.png' | relative_url }}" width="40"> Information Technology Intern @ <a href="https://bank.sinopac.com/sinopacBT/en/index.html">Bank SinoPac</a>, Jun 2023 – Aug 2023 </summary>
+<summary>  
+  <a href="https://bank.sinopac.com/sinopacBT/en/index.html" target="_blank">
+    <img src="{{'/images/bank_logo.png' | relative_url }}" width="40">
+  </a>
+  Information Technology Intern @ Bank SinoPac, Jun 2023 – Aug 2023
+</summary>
   
 <ul>
 <li>Assessed 10K+ Talking ATM interactions using <strong>SQL & Excel</strong> to identify accessibility gaps for users with disabilities, recommending tailored enhancements to 10+ senior leaders, <strong>projected to enhance customer satisfaction by 15%</strong></li>
@@ -96,7 +122,12 @@ I’m a detail-oriented problem solver with a strong sense of ownership and a pa
 <br>
 
 <details>
-<summary> <img src="{{'/images/tft_logo.png' | relative_url }}" width="40"> Marketing Analyst Intern @ <a href="https://www.teach4taiwan.org/">Teach For Taiwan</a>, Oct 2022 – Feb 2023 </summary>
+<summary>  
+  <a href="https://www.teach4taiwan.org/" target="_blank">
+    <img src="{{'/images/tft_logo.png' | relative_url }}" width="40">
+  </a>
+  Marketing Analyst Intern @ Teach For Taiwan, Oct 2022 – Feb 2023
+</summary>
   
 <ul>
 <li>Built a <strong>Google Looker Studio</strong> dashboard to track website traffic and campaign performance, identifying high-exit pages and optimizing targeting strategy—projected to <strong>increase website engagement by 20%</strong></li>
@@ -108,7 +139,12 @@ I’m a detail-oriented problem solver with a strong sense of ownership and a pa
 <br>
 
 <details>
-<summary> <img src="{{'/images/tft_logo.png' | relative_url }}" width="40"> Data Science Intern @ <a href="https://www.teach4taiwan.org/">Teach For Taiwan</a>, Oct 2022 – Feb 2023 </summary>
+<summary>  
+  <a href="https://www.teach4taiwan.org/" target="_blank">
+    <img src="{{'/images/tft_logo.png' | relative_url }}" width="40">
+  </a>
+  Data Science Intern @ Teach For Taiwan, Oct 2022 – Feb 2023
+</summary>
   
 <ul>
 <li><strong>Reduced data preparation time by 200% and market research time by 150%</strong> by developing a streamlined data-cleaning framework using <strong>Excel VBA</strong></li>
@@ -119,7 +155,12 @@ I’m a detail-oriented problem solver with a strong sense of ownership and a pa
 <br>
 
 <details>
-<summary> <img src="{{'/images/humanid_logo.webp' | relative_url }}" width="40"> Brand Marketing Intern @ <a href="https://www.human-internet.org/">humanID</a>, Apr 2022 – Jul 2022 </summary>
+<summary>  
+  <a href="https://www.human-internet.org/" target="_blank">
+    <img src="{{'/images/humanid_logo.webp' | relative_url }}" width="40">
+  </a>
+  Brand Marketing Intern @ humanID, Apr 2022 – Jul 2022
+</summary>
   
 <ul>
 <li><strong>Increased website traffic by 5%</strong> through the creation of 24 bi-weekly SEO-focused articles aligned with trending search topics, using engagement data to continuously refine content strategy and improve audience targeting</li>
@@ -130,7 +171,12 @@ I’m a detail-oriented problem solver with a strong sense of ownership and a pa
 <br>
 
 <details>
-<summary> <img src="{{'/images/nyuad3_logo.png' | relative_url }}" width="40"> Global Outreach Marketing Intern @ <a href="https://nyuad.nyu.edu/en/">New York University Abu Dhabi</a>, Jan 2022 – May 2022 </summary>
+<summary>  
+  <a href="https://nyuad.nyu.edu/en/" target="_blank">
+    <img src="{{'/images/nyuad3_logo.png' | relative_url }}" width="40">
+  </a>
+  Global Outreach Marketing Intern @ New York University, Jan 2022 – May 2022
+</summary>
   
 <ul>
 <li><strong>Increased follower count of <a href="https://www.instagram.com/studyawayatnyuad">[@studyawayatnyuad](https://www.instagram.com/studyawayatnyuad)</a> by 30%</strong> through producing <strong>300+ posts and reels</strong> tailored to audience interests and trending algorithms</li>
@@ -142,7 +188,12 @@ I’m a detail-oriented problem solver with a strong sense of ownership and a pa
 <br>
 
 <details>
-<summary> <img src="{{'/images/millie_logo.jpeg' | relative_url }}" width="40"> Business Development Intern @ <a href="http://www.milliegroup.com">Millie Group</a>, Sep 2021 – Dec 2021 </summary>
+<summary>  
+  <a href="http://www.milliegroup.com" target="_blank">
+    <img src="{{'/images/millie_logo.jpeg' | relative_url }}" width="40">
+  </a>
+  Business Development Intern @ Millie Group, Sep 2021 – Dec 2021
+</summary>
   
 <ul>
 <li><strong>Expanded the company’s target audience by 15%</strong> through strategic outreach, conducting <strong>100+ personalized engagements</strong> with schools and educational institutions to promote Millie Group’s education services</li>
