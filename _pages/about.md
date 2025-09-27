@@ -279,9 +279,6 @@ This project applies statistical modeling on 10,000 user sessions from a South K
 - **Key Methods**: Linear Probability Model, Logistic & Probit Regression, Interval Regression  
 - **Key Tools**: RStudio (packages: *dplyr*, *ggplot2*, *lmtest*, *margins*) 
 
-  </div>
-</div>
-
 </div>
 </div>
 
