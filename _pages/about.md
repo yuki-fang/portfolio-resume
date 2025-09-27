@@ -172,18 +172,28 @@ I’m a detail-oriented problem solver with a strong sense of ownership and a pa
 <span class='anchor' id='-awards'></span>
 
 # 🏆 Awards & Certificates
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Market Research & Strategy</div><img src="{{'/images/effie_semi.jpeg' | relative_url }}" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">Market Research & Strategy</div>
+      <a href="https://github.com/yuki-fang/2025-effie-collegiateUS-amazon-prime-brand-challenge" target="_blank">
+        <img src="{{'/images/effie_semi.jpeg' | relative_url }}" width="100%">
+      </a>
+      <div style="font-size: 0.9em; color: gray; text-align: center; margin-top: 4px;">
+        Click the image to see project output and feedback on GitHub
+      </div>
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
 
 **Semi-Finalist @ [2025 Effie Collegiate U.S. x Amazon Prime Brand Challenge](https://www.effie.org/2025-effie-collegiate/)**
-
-[**Project Output**](https://drive.google.com/drive/folders/1m3HD0IIzHxWwlQBQ8xfGSu4_jJLeoJda?usp=sharing) [**Project Feedback**](https://drive.google.com/file/d/1CkhxIgsh5p-oJsJCAD0sVPIlaqQ04bVs/view?usp=drive_link)
 
 Selected as one of six semi-finalists in the 2025 Effie Collegiate U.S. Competition out of 50+ participating teams. This national marketing challenge, hosted in collaboration with Amazon, invited students to develop an integrated campaign that demonstrates how Prime delivers everyday value to Gen Z.
 
 Our campaign, Your Prime, Your Way, responded to Gen Z’s frustration with algorithm-driven misrepresentation by positioning Prime as a tool for digital autonomy and personalization. We proposed a cross-channel strategy delivered through native content on TikTok, YouTube, Hulu, and Spotify—meeting Gen Z where their media habits and frustrations intersect.
 
 I led the segmentation analysis of Prime owners, sharers, and non-users, identifying behavioral patterns and unmet needs. Sharers, in particular, expressed a limited sense of autonomy and control—an insight that directly informed our campaign’s strategic direction and messaging.
+
 </div>
 </div>
 
