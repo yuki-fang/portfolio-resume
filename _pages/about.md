@@ -35,9 +35,9 @@ I’m a detail-oriented problem solver with a strong sense of ownership and a pa
 - Consumer Strategy & Insights
 
 <br><br>
-<span class='anchor' id='work-experience'></span>
+<span class='anchor' id='internships'></span>
 
-# 👩🏻‍💻 Work Experience
+# 👩🏻‍💻 Professional Experience
 <details>
 <summary> 
   <a href="https://markanthony.com/" target="_blank">
