@@ -265,6 +265,8 @@ I led the segmentation analysis of Prime owners, sharers, and non-users, identif
       <a href="https://github.com/yuki-fang/pre-roll-ad-gender-analysis" target="_blank">
         <img src='Projects/marketing_models/MarketingModels_Project1_thumbnail.png' alt="Project Thumbnail" width="100%">
       </a>
+      <div style="font-size: 0.9em; color: gray; text-align: center; margin-top: 4px;">
+        Click the image to view the GitHub project
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
@@ -289,6 +291,9 @@ This project applies statistical modeling on 10,000 user sessions from a South K
       <a href="https://github.com/yuki-fang/anipang-adoption-competitor-analysis" target="_blank">
         <img src='Projects/marketing_models/MM_Project2_thumbnail.png' alt="Project Thumbnail" width="100%">
       </a>
+      <div style="font-size: 0.9em; color: gray; text-align: center; margin-top: 4px;">
+        Click the image to view the GitHub project
+      </div>
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
@@ -305,7 +310,6 @@ This project applies propensity-score matching and panel difference-in-differenc
 
 </div>
 </div>
-
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Video Virality Prediction</div><img src='Projects/machinelearning/ML_tiktok_thumbnail.png' alt="My Picture" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
