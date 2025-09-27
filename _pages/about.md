@@ -366,17 +366,28 @@ This project analyzes FreshMart’s sales data to optimize pricing, marketing sp
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Churn Analysis & Retetion Strategy</div><img src='Projects/datascience/DS_churn_thumbnail.png' alt="My Picture" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">Churn Analysis & Retention Strategy</div>
+      <a href="https://github.com/yuki-fang/subscriber-churn-analysis-datascience" target="_blank">
+        <img src='Projects/datascience/DS_churn_thumbnail.png' alt="Project Thumbnail" width="100%">
+      </a>
+      <div style="font-size: 0.9em; color: gray; text-align: center; margin-top: 4px;">
+        Click the image to view the GitHub project
+      </div>
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
 
 ## Data Science: Improving Subscriber Retention Through Churn Analysis
 <small>
 This project analyzes churn among digital newspaper subscribers using a panel dataset of 12,170 observations and 32 variables, with each record representing a customer’s monthly subscription decision. From creating a Directed Acyclic Graph (DAG) to map factors influencing churn, I found that **regularity of engagement matters significantly more than intensity. Longer customer lifecycles, everyday viewing, and content consumption (sports/news) reduce churn, while higher prices and short-term trial offers increase it.**
 </small>  
 
-[**Code**](Projects/datascience/news_website_case_yuki.R) [**Slides**](Projects/datascience/DS_ChurnAnalysis.pdf) <strong><span class='show_paper_citations' data='4FA6C0AAAAAJ:qjMakFHDy7sC'></span></strong>
+<strong><span class='show_paper_citations' data='4FA6C0AAAAAJ:qjMakFHDy7sC'></span></strong>
 
-- **Key Methods**: Logistic Regression Analysis, Directed Acyclic Graph (DAG) modeling, Panel Data Analysis
+- **Key Methods**: Logistic Regression Analysis, Directed Acyclic Graph (DAG) modeling, Panel Data Analysis  
 - **Key Tools**: RStudio (packages: *dplyr*, *plm*, *ggplot2*)  
 
 </div>
