@@ -30,6 +30,5 @@ I’m a detail-oriented problem solver with a strong sense of ownership and a pa
 - Consumer Strategy & Insights
 
 ---
+### Click around to learn more about me! :)
 
-### Key Projects & Links
-- 
